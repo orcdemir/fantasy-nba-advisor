@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FantasyAdvisor.Cli/FantasyAdvisor.Cli.csproj" />
+    <Project Path="src/FantasyAdvisor.Core/FantasyAdvisor.Core.csproj" />
+    <Project Path="src/FantasyAdvisor.Sources/FantasyAdvisor.Sources.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FantasyAdvisor.Tests/FantasyAdvisor.Tests.csproj" />
+  </Folder>
+</Solution>
