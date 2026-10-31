@@ -38,9 +38,30 @@ public class SourcesTests
         Assert.Equal(10.0, luka.Season.Fta, 0.06);
         Assert.Equal(8.3, luka.Season.Ast, 0.06);
         Assert.Equal(5.8, luka.Season.To, 0.06);
+        Assert.Equal(6.75, luka.Season.Reb, 0.01); // ESPN lists REB total (27) before per-game (6.75)
         Assert.Equal(1.3, luka.Season.Stl, 0.06);
         Assert.Equal(0.5, luka.Season.Blk, 0.06);
         Assert.Equal(["G"], luka.Positions);
+    }
+
+    [Fact]
+    public void EspnParse_RejectsPerGameValuesInconsistentWithSeasonTotals()
+    {
+        // Luka's per-game REB 6.75 x 4 games = 27 total; make it 9.75 so the cross-check must fail.
+        var broken = Fixture("espn-stats.json").Replace("6.75", "9.75");
+        Assert.Throws<FormatException>(() => EspnStatsSource.Parse(broken, Fixture("espn-injuries.json")));
+    }
+
+    [Fact]
+    public void EspnParse_AllFixturePlayersHavePlausiblePerGameStats()
+    {
+        foreach (var p in EspnPlayers())
+        {
+            Assert.True(p.Season.Reb < 25, $"{p.Name} REB {p.Season.Reb}");
+            Assert.True(p.Season.Fgm <= p.Season.Fga, $"{p.Name} FG");
+            Assert.True(p.Season.Ftm <= p.Season.Fta, $"{p.Name} FT");
+            Assert.True(p.Season.Minutes <= 48, $"{p.Name} MIN");
+        }
     }
 
     [Fact]

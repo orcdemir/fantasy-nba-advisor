@@ -1,6 +1,6 @@
 {
-  "analyzedAt": "2026-10-31T09:11:11.7446866+00:00",
-  "dataCollectedAt": "2026-10-31T09:11:07.89338+00:00",
+  "analyzedAt": "2026-10-31T09:27:26.090697+00:00",
+  "dataCollectedAt": "2026-10-31T09:27:23.433203+00:00",
   "status": "ok",
   "message": null,
   "swaps": [
@@ -17,7 +17,7 @@
           "games": 6,
           "minutes": 26,
           "pts": 15.5,
-          "reb": 24,
+          "reb": 4,
           "ast": 2,
           "stl": 1,
           "blk": 0.33333334,
@@ -44,7 +44,7 @@
           "games": 5,
           "minutes": 27,
           "pts": 5,
-          "reb": 12,
+          "reb": 2.4,
           "ast": 2,
           "stl": 0.4,
           "blk": 0.4,
@@ -59,7 +59,7 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 9.502672653341106,
+      "totalDelta": 9.09814681203243,
       "impacts": [
         {
           "category": "Pts",
@@ -67,7 +67,7 @@
         },
         {
           "category": "Reb",
-          "delta": 1.1622475922836761
+          "delta": 0.7577217509750016
         },
         {
           "category": "Ast",
@@ -115,7 +115,7 @@
           "games": 5,
           "minutes": 32.8,
           "pts": 9,
-          "reb": 39,
+          "reb": 7.8,
           "ast": 3.4,
           "stl": 2.2,
           "blk": 0.4,
@@ -142,7 +142,7 @@
           "games": 5,
           "minutes": 27,
           "pts": 5,
-          "reb": 12,
+          "reb": 2.4,
           "ast": 2,
           "stl": 0.4,
           "blk": 0.4,
@@ -157,7 +157,7 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 8.244869431714278,
+      "totalDelta": 8.187123258616637,
       "impacts": [
         {
           "category": "Pts",
@@ -165,7 +165,7 @@
         },
         {
           "category": "Reb",
-          "delta": 2.6150570826382715
+          "delta": 2.55731090954063
         },
         {
           "category": "Ast",
@@ -213,7 +213,7 @@
           "games": 5,
           "minutes": 31.6,
           "pts": 12.6,
-          "reb": 20,
+          "reb": 4,
           "ast": 3.8,
           "stl": 1.8,
           "blk": 0,
@@ -240,7 +240,7 @@
           "games": 5,
           "minutes": 27,
           "pts": 5,
-          "reb": 12,
+          "reb": 2.4,
           "ast": 2,
           "stl": 0.4,
           "blk": 0.4,
@@ -255,7 +255,7 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 8.121134567436263,
+      "totalDelta": 8.104024590222147,
       "impacts": [
         {
           "category": "Pts",
@@ -263,7 +263,7 @@
         },
         {
           "category": "Reb",
-          "delta": 0.7748317281891175
+          "delta": 0.7577217509750016
         },
         {
           "category": "Ast",
@@ -311,7 +311,7 @@
           "games": 5,
           "minutes": 30.6,
           "pts": 10.6,
-          "reb": 18,
+          "reb": 3.6,
           "ast": 4.2,
           "stl": 1.4,
           "blk": 0.2,
@@ -338,7 +338,7 @@
           "games": 5,
           "minutes": 27,
           "pts": 5,
-          "reb": 12,
+          "reb": 2.4,
           "ast": 2,
           "stl": 0.4,
           "blk": 0.4,
@@ -353,7 +353,7 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 7.853427548656372,
+      "totalDelta": 7.840595065745786,
       "impacts": [
         {
           "category": "Pts",
@@ -361,7 +361,7 @@
         },
         {
           "category": "Reb",
-          "delta": 0.5811237961418381
+          "delta": 0.5682913132312514
         },
         {
           "category": "Ast",
@@ -409,7 +409,7 @@
           "games": 5,
           "minutes": 28,
           "pts": 15.2,
-          "reb": 15,
+          "reb": 3,
           "ast": 3,
           "stl": 0.6,
           "blk": 0.4,
@@ -436,7 +436,7 @@
           "games": 5,
           "minutes": 27,
           "pts": 5,
-          "reb": 12,
+          "reb": 2.4,
           "ast": 2,
           "stl": 0.4,
           "blk": 0.4,
@@ -451,7 +451,7 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 7.631896986913998,
+      "totalDelta": 7.625480745458703,
       "impacts": [
         {
           "category": "Pts",
@@ -459,7 +459,7 @@
         },
         {
           "category": "Reb",
-          "delta": 0.29056189807091903
+          "delta": 0.2841456566156257
         },
         {
           "category": "Ast",

@@ -16,6 +16,9 @@ public sealed class EspnStatsSource(HttpClient http) : IStatsSource
 
     private const string InjuriesUrl = "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/injuries";
 
+    /// <summary>Labels where ESPN puts the per-game value after the season total (observed: general.REB).</summary>
+    private static readonly HashSet<string> PerGameIsLast = ["REB"];
+
     public string Name => "espn";
 
     public async Task<IReadOnlyList<Player>> GetPlayersAsync(CancellationToken ct)
@@ -39,21 +42,42 @@ public sealed class EspnStatsSource(HttpClient http) : IStatsSource
             var athlete = entry.GetProperty("athlete");
             var name = athlete.GetProperty("displayName").GetString()!;
 
-            var values = new Dictionary<string, double>();
+            // Labels repeat: one occurrence is the per-game average, the other the season total.
+            var occurrences = new Dictionary<string, List<double>>();
             foreach (var cat in entry.GetProperty("categories").EnumerateArray())
             {
                 var catName = cat.GetProperty("name").GetString()!;
                 if (!labels.TryGetValue(catName, out var catLabels)) continue;
                 var vals = cat.GetProperty("values").EnumerateArray().Select(v => v.GetDouble()).ToList();
-                // Labels repeat (per-game first, season totals after); keep the first occurrence = per game.
                 for (var i = 0; i < Math.Min(vals.Count, catLabels.Count); i++)
-                    values.TryAdd(catLabels[i], vals[i]);
+                {
+                    if (!occurrences.TryGetValue(catLabels[i], out var list))
+                        occurrences[catLabels[i]] = list = [];
+                    list.Add(vals[i]);
+                }
             }
 
-            double V(string label) =>
-                values.TryGetValue(label, out var v)
-                    ? v
-                    : throw new FormatException($"ESPN yanıtında '{label}' alanı yok ({name}); şema değişmiş olabilir.");
+            double Games() => occurrences.TryGetValue("GP", out var gp) ? gp[0] : 0;
+
+            double V(string label)
+            {
+                if (!occurrences.TryGetValue(label, out var list))
+                    throw new FormatException($"ESPN yanıtında '{label}' alanı yok ({name}); şema değişmiş olabilir.");
+
+                // ESPN lists per-game first for every stat except REB, where it comes last.
+                var perGame = PerGameIsLast.Contains(label) ? list[^1] : list[0];
+
+                // Guard against ESPN reordering: per-game x games must reproduce the season total.
+                if (list.Count == 2 && Games() > 0)
+                {
+                    var total = PerGameIsLast.Contains(label) ? list[0] : list[1];
+                    if (Math.Abs(perGame * Games() - total) > 0.5 + 0.02 * Math.Abs(total))
+                        throw new FormatException(
+                            $"'{label}' maç başı değeri sezon toplamıyla tutarsız ({name}: {perGame} x {Games()} != {total}); şema değişmiş olabilir.");
+                }
+
+                return perGame;
+            }
 
             var positions = athlete.TryGetProperty("position", out var pos) && pos.TryGetProperty("abbreviation", out var abbr)
                 ? new[] { abbr.GetString()! }
