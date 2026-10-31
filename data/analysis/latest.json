@@ -1,0 +1,498 @@
+{
+  "analyzedAt": "2026-10-31T09:11:11.7446866+00:00",
+  "dataCollectedAt": "2026-10-31T09:11:07.89338+00:00",
+  "status": "ok",
+  "message": null,
+  "swaps": [
+    {
+      "add": {
+        "playerId": "4397183",
+        "name": "Aaron Wiggins",
+        "team": "ATL",
+        "positions": [
+          "G"
+        ],
+        "status": "Healthy",
+        "season": {
+          "games": 6,
+          "minutes": 26,
+          "pts": 15.5,
+          "reb": 24,
+          "ast": 2,
+          "stl": 1,
+          "blk": 0.33333334,
+          "tpm": 3,
+          "to": 0.8333333,
+          "fgm": 5.8333335,
+          "fga": 11.333333,
+          "ftm": 0.8333333,
+          "fta": 1.1666666
+        },
+        "last14": null,
+        "last7": null,
+        "gamesRemainingThisWeek": null
+      },
+      "drop": {
+        "playerId": "3147657",
+        "name": "Mikal Bridges",
+        "team": "NY",
+        "positions": [
+          "G"
+        ],
+        "status": "Healthy",
+        "season": {
+          "games": 5,
+          "minutes": 27,
+          "pts": 5,
+          "reb": 12,
+          "ast": 2,
+          "stl": 0.4,
+          "blk": 0.4,
+          "tpm": 1,
+          "to": 0.8,
+          "fgm": 2,
+          "fga": 7.4,
+          "ftm": 0,
+          "fta": 0
+        },
+        "last14": null,
+        "last7": null,
+        "gamesRemainingThisWeek": null
+      },
+      "totalDelta": 9.502672653341106,
+      "impacts": [
+        {
+          "category": "Pts",
+          "delta": 2.1819658381643503
+        },
+        {
+          "category": "Reb",
+          "delta": 1.1622475922836761
+        },
+        {
+          "category": "Ast",
+          "delta": 0
+        },
+        {
+          "category": "Stl",
+          "delta": 1.0380513409375691
+        },
+        {
+          "category": "Blk",
+          "delta": -0.15044132781058414
+        },
+        {
+          "category": "Tpm",
+          "delta": 2.3473624439991148
+        },
+        {
+          "category": "Fg",
+          "delta": 3.1268060413309615
+        },
+        {
+          "category": "Ft",
+          "delta": -0.16365870771021745
+        },
+        {
+          "category": "To",
+          "delta": -0.03966056785376543
+        }
+      ],
+      "risks": [
+        "K\u00FC\u00E7\u00FCk \u00F6rneklem (6 ma\u00E7)."
+      ]
+    },
+    {
+      "add": {
+        "playerId": "3062679",
+        "name": "Josh Hart",
+        "team": "NY",
+        "positions": [
+          "G"
+        ],
+        "status": "Healthy",
+        "season": {
+          "games": 5,
+          "minutes": 32.8,
+          "pts": 9,
+          "reb": 39,
+          "ast": 3.4,
+          "stl": 2.2,
+          "blk": 0.4,
+          "tpm": 1.8,
+          "to": 2,
+          "fgm": 3.4,
+          "fga": 8.4,
+          "ftm": 0.4,
+          "fta": 0.6
+        },
+        "last14": null,
+        "last7": null,
+        "gamesRemainingThisWeek": null
+      },
+      "drop": {
+        "playerId": "3147657",
+        "name": "Mikal Bridges",
+        "team": "NY",
+        "positions": [
+          "G"
+        ],
+        "status": "Healthy",
+        "season": {
+          "games": 5,
+          "minutes": 27,
+          "pts": 5,
+          "reb": 12,
+          "ast": 2,
+          "stl": 0.4,
+          "blk": 0.4,
+          "tpm": 1,
+          "to": 0.8,
+          "fgm": 2,
+          "fga": 7.4,
+          "ftm": 0,
+          "fta": 0
+        },
+        "last14": null,
+        "last7": null,
+        "gamesRemainingThisWeek": null
+      },
+      "totalDelta": 8.244869431714278,
+      "impacts": [
+        {
+          "category": "Pts",
+          "delta": 0.8312250812054668
+        },
+        {
+          "category": "Reb",
+          "delta": 2.6150570826382715
+        },
+        {
+          "category": "Ast",
+          "delta": 0.9210598830661031
+        },
+        {
+          "category": "Stl",
+          "delta": 3.114154022812708
+        },
+        {
+          "category": "Blk",
+          "delta": 0
+        },
+        {
+          "category": "Tpm",
+          "delta": 0.9389449775996458
+        },
+        {
+          "category": "Fg",
+          "delta": 1.4342567030752444
+        },
+        {
+          "category": "Ft",
+          "delta": -0.182046448165734
+        },
+        {
+          "category": "To",
+          "delta": -1.427781870517426
+        }
+      ],
+      "risks": [
+        "K\u00FC\u00E7\u00FCk \u00F6rneklem (5 ma\u00E7)."
+      ]
+    },
+    {
+      "add": {
+        "playerId": "4395630",
+        "name": "Devin Vassell",
+        "team": "SA",
+        "positions": [
+          "G"
+        ],
+        "status": "Healthy",
+        "season": {
+          "games": 5,
+          "minutes": 31.6,
+          "pts": 12.6,
+          "reb": 20,
+          "ast": 3.8,
+          "stl": 1.8,
+          "blk": 0,
+          "tpm": 1.8,
+          "to": 1.4,
+          "fgm": 4.6,
+          "fga": 11,
+          "ftm": 1.6,
+          "fta": 1.6
+        },
+        "last14": null,
+        "last7": null,
+        "gamesRemainingThisWeek": null
+      },
+      "drop": {
+        "playerId": "3147657",
+        "name": "Mikal Bridges",
+        "team": "NY",
+        "positions": [
+          "G"
+        ],
+        "status": "Healthy",
+        "season": {
+          "games": 5,
+          "minutes": 27,
+          "pts": 5,
+          "reb": 12,
+          "ast": 2,
+          "stl": 0.4,
+          "blk": 0.4,
+          "tpm": 1,
+          "to": 0.8,
+          "fgm": 2,
+          "fga": 7.4,
+          "ftm": 0,
+          "fta": 0
+        },
+        "last14": null,
+        "last7": null,
+        "gamesRemainingThisWeek": null
+      },
+      "totalDelta": 8.121134567436263,
+      "impacts": [
+        {
+          "category": "Pts",
+          "delta": 1.579327654290387
+        },
+        {
+          "category": "Reb",
+          "delta": 0.7748317281891175
+        },
+        {
+          "category": "Ast",
+          "delta": 1.184219849656418
+        },
+        {
+          "category": "Stl",
+          "delta": 2.4221197955209943
+        },
+        {
+          "category": "Blk",
+          "delta": -0.9026480571283101
+        },
+        {
+          "category": "Tpm",
+          "delta": 0.9389449775996458
+        },
+        {
+          "category": "Fg",
+          "delta": 1.4966105375311822
+        },
+        {
+          "category": "Ft",
+          "delta": 1.34161901703554
+        },
+        {
+          "category": "To",
+          "delta": -0.7138909352587129
+        }
+      ],
+      "risks": [
+        "K\u00FC\u00E7\u00FCk \u00F6rneklem (5 ma\u00E7)."
+      ]
+    },
+    {
+      "add": {
+        "playerId": "4601025",
+        "name": "Pelle Larsson",
+        "team": "MIA",
+        "positions": [
+          "G"
+        ],
+        "status": "Healthy",
+        "season": {
+          "games": 5,
+          "minutes": 30.6,
+          "pts": 10.6,
+          "reb": 18,
+          "ast": 4.2,
+          "stl": 1.4,
+          "blk": 0.2,
+          "tpm": 1,
+          "to": 1,
+          "fgm": 3,
+          "fga": 7.2,
+          "ftm": 3.6,
+          "fta": 4
+        },
+        "last14": null,
+        "last7": null,
+        "gamesRemainingThisWeek": null
+      },
+      "drop": {
+        "playerId": "3147657",
+        "name": "Mikal Bridges",
+        "team": "NY",
+        "positions": [
+          "G"
+        ],
+        "status": "Healthy",
+        "season": {
+          "games": 5,
+          "minutes": 27,
+          "pts": 5,
+          "reb": 12,
+          "ast": 2,
+          "stl": 0.4,
+          "blk": 0.4,
+          "tpm": 1,
+          "to": 0.8,
+          "fgm": 2,
+          "fga": 7.4,
+          "ftm": 0,
+          "fta": 0
+        },
+        "last14": null,
+        "last7": null,
+        "gamesRemainingThisWeek": null
+      },
+      "totalDelta": 7.853427548656372,
+      "impacts": [
+        {
+          "category": "Pts",
+          "delta": 1.1637151136876533
+        },
+        {
+          "category": "Reb",
+          "delta": 0.5811237961418381
+        },
+        {
+          "category": "Ast",
+          "delta": 1.4473798162467335
+        },
+        {
+          "category": "Stl",
+          "delta": 1.7300855682292817
+        },
+        {
+          "category": "Blk",
+          "delta": -0.45132402856415504
+        },
+        {
+          "category": "Tpm",
+          "delta": 0
+        },
+        {
+          "category": "Fg",
+          "delta": 1.636670544520531
+        },
+        {
+          "category": "Ft",
+          "delta": 1.9837403834807275
+        },
+        {
+          "category": "To",
+          "delta": -0.23796364508623763
+        }
+      ],
+      "risks": [
+        "K\u00FC\u00E7\u00FCk \u00F6rneklem (5 ma\u00E7)."
+      ]
+    },
+    {
+      "add": {
+        "playerId": "3135045",
+        "name": "Grayson Allen",
+        "team": "CHA",
+        "positions": [
+          "G"
+        ],
+        "status": "Healthy",
+        "season": {
+          "games": 5,
+          "minutes": 28,
+          "pts": 15.2,
+          "reb": 15,
+          "ast": 3,
+          "stl": 0.6,
+          "blk": 0.4,
+          "tpm": 3.2,
+          "to": 3,
+          "fgm": 4,
+          "fga": 9,
+          "ftm": 4,
+          "fta": 4.4
+        },
+        "last14": null,
+        "last7": null,
+        "gamesRemainingThisWeek": null
+      },
+      "drop": {
+        "playerId": "3147657",
+        "name": "Mikal Bridges",
+        "team": "NY",
+        "positions": [
+          "G"
+        ],
+        "status": "Healthy",
+        "season": {
+          "games": 5,
+          "minutes": 27,
+          "pts": 5,
+          "reb": 12,
+          "ast": 2,
+          "stl": 0.4,
+          "blk": 0.4,
+          "tpm": 1,
+          "to": 0.8,
+          "fgm": 2,
+          "fga": 7.4,
+          "ftm": 0,
+          "fta": 0
+        },
+        "last14": null,
+        "last7": null,
+        "gamesRemainingThisWeek": null
+      },
+      "totalDelta": 7.631896986913998,
+      "impacts": [
+        {
+          "category": "Pts",
+          "delta": 2.11962395707394
+        },
+        {
+          "category": "Reb",
+          "delta": 0.29056189807091903
+        },
+        {
+          "category": "Ast",
+          "delta": 0.6578999164757879
+        },
+        {
+          "category": "Stl",
+          "delta": 0.34601711364585624
+        },
+        {
+          "category": "Blk",
+          "delta": 0
+        },
+        {
+          "category": "Tpm",
+          "delta": 2.5820986883990265
+        },
+        {
+          "category": "Fg",
+          "delta": 1.934150371457471
+        },
+        {
+          "category": "Ft",
+          "delta": 2.319145137739612
+        },
+        {
+          "category": "To",
+          "delta": -2.6176000959486148
+        }
+      ],
+      "risks": [
+        "K\u00FC\u00E7\u00FCk \u00F6rneklem (5 ma\u00E7)."
+      ]
+    }
+  ]
+}
