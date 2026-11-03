@@ -1,9 +1,107 @@
 {
-  "analyzedAt": "2026-11-02T09:46:17.940606+00:00",
-  "dataCollectedAt": "2026-11-02T09:46:14.8395597+00:00",
+  "analyzedAt": "2026-11-03T09:50:34.6749456+00:00",
+  "dataCollectedAt": "2026-11-03T09:50:26.9333313+00:00",
   "status": "ok",
   "message": null,
   "swaps": [
+    {
+      "add": {
+        "playerId": "2991139",
+        "name": "Kris Dunn",
+        "team": "LAC",
+        "positions": [
+          "G"
+        ],
+        "status": "Healthy",
+        "season": {
+          "games": 6,
+          "minutes": 29.666666,
+          "pts": 8.5,
+          "reb": 4,
+          "ast": 5.3333335,
+          "stl": 3,
+          "blk": 0.6666667,
+          "tpm": 0.8333333,
+          "to": 1.8333334,
+          "fgm": 3.1666667,
+          "fga": 5.8333335,
+          "ftm": 1.3333334,
+          "fta": 1.6666666
+        },
+        "last14": null,
+        "last7": null,
+        "gamesRemainingThisWeek": null
+      },
+      "drop": {
+        "playerId": "3147657",
+        "name": "Mikal Bridges",
+        "team": "NY",
+        "positions": [
+          "G"
+        ],
+        "status": "Healthy",
+        "season": {
+          "games": 6,
+          "minutes": 27.333334,
+          "pts": 6.1666665,
+          "reb": 2.8333333,
+          "ast": 2,
+          "stl": 0.8333333,
+          "blk": 0.33333334,
+          "tpm": 1.1666666,
+          "to": 0.8333333,
+          "fgm": 2.5,
+          "fga": 7.5,
+          "ftm": 0,
+          "fta": 0
+        },
+        "last14": null,
+        "last7": null,
+        "gamesRemainingThisWeek": null
+      },
+      "totalDelta": 9.223314442322323,
+      "impacts": [
+        {
+          "category": "Pts",
+          "delta": 0.4968144165147667
+        },
+        {
+          "category": "Reb",
+          "delta": 0.5692411711565502
+        },
+        {
+          "category": "Ast",
+          "delta": 2.2519522274583803
+        },
+        {
+          "category": "Stl",
+          "delta": 4.1376025261768214
+        },
+        {
+          "category": "Blk",
+          "delta": 0.7822312012043724
+        },
+        {
+          "category": "Tpm",
+          "delta": -0.39448375030108174
+        },
+        {
+          "category": "Fg",
+          "delta": 2.455246538953732
+        },
+        {
+          "category": "Ft",
+          "delta": 0.225487425017267
+        },
+        {
+          "category": "To",
+          "delta": -1.3007773138584864
+        }
+      ],
+      "risks": [
+        "K\u00FC\u00E7\u00FCk \u00F6rneklem (6 ma\u00E7)."
+      ]
+    },
     {
       "add": {
         "playerId": "2991230",
@@ -59,43 +157,43 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 8.525783500047837,
+      "totalDelta": 8.644508472343071,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 1.4504276353964984
+          "delta": 1.4549564370688153
         },
         {
           "category": "Reb",
-          "delta": 0.5718329647063092
+          "delta": 0.5692411711565502
         },
         {
           "category": "Ast",
-          "delta": 2.9053402000802073
+          "delta": 2.9725767916162225
         },
         {
           "category": "Stl",
-          "delta": 1.8238984458874434
+          "delta": 1.8460073161649704
         },
         {
           "category": "Blk",
-          "delta": -0.30937648366551973
+          "delta": -0.3128924710949752
         },
         {
           "category": "Tpm",
-          "delta": 1.453832371586016
+          "delta": 1.459590100969762
         },
         {
           "category": "Fg",
-          "delta": 0.07155381406683459
+          "delta": 0.07167672800483804
         },
         {
           "category": "Ft",
-          "delta": 0.772610397639932
+          "delta": 0.800148639112923
         },
         {
           "category": "To",
-          "delta": -0.21433584564988506
+          "delta": -0.21679624065603412
         }
       ],
       "risks": [
@@ -157,15 +255,15 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 8.375953034332433,
+      "totalDelta": 8.550373229875968,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 1.95984610954994
+          "delta": 1.9659655146976411
         },
         {
           "category": "Reb",
-          "delta": 0.6698614701408622
+          "delta": 0.6668253691381247
         },
         {
           "category": "Ast",
@@ -173,27 +271,27 @@
         },
         {
           "category": "Stl",
-          "delta": 2.9559733042977574
+          "delta": 2.9918049211708957
         },
         {
           "category": "Blk",
-          "delta": -0.30937648366551973
+          "delta": -0.3128924710949752
         },
         {
           "category": "Tpm",
-          "delta": 1.453832371586016
+          "delta": 1.459590100969762
         },
         {
           "category": "Fg",
-          "delta": 2.9309645374704285
+          "delta": 3.077727010065004
         },
         {
           "category": "Ft",
-          "delta": -0.04200057604008818
+          "delta": -0.04122922738983562
         },
         {
           "category": "To",
-          "delta": -1.243147699006963
+          "delta": -1.2574179876806488
         }
       ],
       "risks": [
@@ -208,21 +306,21 @@
         "positions": [
           "G"
         ],
-        "status": "Healthy",
+        "status": "Questionable",
         "season": {
-          "games": 5,
-          "minutes": 32.2,
-          "pts": 17.6,
-          "reb": 2,
-          "ast": 8,
-          "stl": 0.6,
+          "games": 6,
+          "minutes": 32.666668,
+          "pts": 18.5,
+          "reb": 2.1666667,
+          "ast": 7.3333335,
+          "stl": 0.6666667,
           "blk": 0,
-          "tpm": 2.2,
-          "to": 2.4,
-          "fgm": 5.8,
-          "fga": 12.2,
-          "ftm": 3.8,
-          "fta": 4.2
+          "tpm": 2.5,
+          "to": 2.5,
+          "fgm": 6,
+          "fga": 13.333333,
+          "ftm": 4,
+          "fta": 4.5
         },
         "last14": null,
         "last7": null,
@@ -255,72 +353,73 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 8.087556239237227,
+      "totalDelta": 7.853458286105277,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 2.426813044190595
+          "delta": 2.626018906634875
         },
         {
           "category": "Reb",
-          "delta": -0.4084520896392194
+          "delta": -0.3252806274105153
         },
         {
           "category": "Ast",
-          "delta": 3.961827545563919
+          "delta": 3.6031234963748453
         },
         {
           "category": "Stl",
-          "delta": -0.4402512709331859
+          "delta": -0.31827698519080133
         },
         {
           "category": "Blk",
-          "delta": -0.7734411859605644
+          "delta": -0.7822311542705042
         },
         {
           "category": "Tpm",
-          "delta": 1.2180757835318832
+          "delta": 1.5779352378946003
         },
         {
           "category": "Fg",
-          "delta": 1.9745521243164694
+          "delta": 1.5366867621430709
         },
         {
           "category": "Ft",
-          "delta": 2.143188877192103
+          "delta": 2.1034446662568937
         },
         {
           "category": "To",
-          "delta": -2.0147565890247714
+          "delta": -2.167962016327187
         }
       ],
       "risks": [
-        "K\u00FC\u00E7\u00FCk \u00F6rneklem (5 ma\u00E7)."
+        "Andrew Nembhard sakatl\u0131k raporunda (Questionable).",
+        "K\u00FC\u00E7\u00FCk \u00F6rneklem (6 ma\u00E7)."
       ]
     },
     {
       "add": {
-        "playerId": "4684272",
-        "name": "Ja\u0027Kobe Walter",
-        "team": "TOR",
+        "playerId": "4709138",
+        "name": "Brandin Podziemski",
+        "team": "GS",
         "positions": [
           "G"
         ],
         "status": "Healthy",
         "season": {
           "games": 5,
-          "minutes": 27.6,
-          "pts": 12.4,
-          "reb": 3.8,
-          "ast": 2.2,
-          "stl": 1.8,
+          "minutes": 33.6,
+          "pts": 16.4,
+          "reb": 5.4,
+          "ast": 5.6,
+          "stl": 1.2,
           "blk": 0.4,
-          "tpm": 2.8,
-          "to": 0.4,
-          "fgm": 4.2,
-          "fga": 8.4,
-          "ftm": 1.2,
-          "fta": 1.8
+          "tpm": 2.2,
+          "to": 1.6,
+          "fgm": 6,
+          "fga": 13,
+          "ftm": 2.2,
+          "fta": 3.2
         },
         "last14": null,
         "last7": null,
@@ -353,145 +452,47 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 7.8922764064803275,
+      "totalDelta": 7.829578025177551,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 1.3230730168581384
+          "delta": 2.178885963709652
         },
         {
           "category": "Reb",
-          "delta": 0.4738044592717563
+          "delta": 1.2523305570275711
         },
         {
           "category": "Ast",
-          "delta": 0.13206091818546406
+          "delta": 2.432108284049636
         },
         {
           "category": "Stl",
-          "delta": 1.8238984458874434
+          "delta": 0.7002097111590437
         },
         {
           "category": "Blk",
-          "delta": 0.1546882186295249
+          "delta": 0.1564462120805536
         },
         {
           "category": "Tpm",
-          "delta": 1.9253455476942818
+          "delta": 1.2228998271200862
         },
         {
           "category": "Fg",
-          "delta": 2.142101413538125
+          "delta": 1.7961918330187538
         },
         {
           "category": "Ft",
-          "delta": -0.6399686579523289
+          "delta": -0.9122318120632513
         },
         {
           "category": "To",
-          "delta": 0.5572730443679234
+          "delta": -0.9972625509244952
         }
       ],
       "risks": [
         "K\u00FC\u00E7\u00FCk \u00F6rneklem (5 ma\u00E7)."
-      ]
-    },
-    {
-      "add": {
-        "playerId": "4397002",
-        "name": "Ayo Dosunmu",
-        "team": "MIN",
-        "positions": [
-          "G"
-        ],
-        "status": "Healthy",
-        "season": {
-          "games": 7,
-          "minutes": 29.142857,
-          "pts": 15.285714,
-          "reb": 5,
-          "ast": 3.5714285,
-          "stl": 1.2857143,
-          "blk": 0.42857143,
-          "tpm": 1.7142857,
-          "to": 2.142857,
-          "fgm": 6.142857,
-          "fga": 11.571428,
-          "ftm": 1.2857143,
-          "fta": 1.5714285
-        },
-        "last14": null,
-        "last7": null,
-        "gamesRemainingThisWeek": null
-      },
-      "drop": {
-        "playerId": "3147657",
-        "name": "Mikal Bridges",
-        "team": "NY",
-        "positions": [
-          "G"
-        ],
-        "status": "Healthy",
-        "season": {
-          "games": 6,
-          "minutes": 27.333334,
-          "pts": 6.1666665,
-          "reb": 2.8333333,
-          "ast": 2,
-          "stl": 0.8333333,
-          "blk": 0.33333334,
-          "tpm": 1.1666666,
-          "to": 0.8333333,
-          "fgm": 2.5,
-          "fga": 7.5,
-          "ftm": 0,
-          "fta": 0
-        },
-        "last14": null,
-        "last7": null,
-        "gamesRemainingThisWeek": null
-      },
-      "totalDelta": 7.383907326361006,
-      "impacts": [
-        {
-          "category": "Pts",
-          "delta": 1.9355880263261485
-        },
-        {
-          "category": "Reb",
-          "delta": 1.0619754918790736
-        },
-        {
-          "category": "Ast",
-          "delta": 1.0376214528640317
-        },
-        {
-          "category": "Stl",
-          "delta": 0.853548594204194
-        },
-        {
-          "category": "Blk",
-          "delta": 0.22098317941499335
-        },
-        {
-          "category": "Tpm",
-          "delta": 0.6455240528463753
-        },
-        {
-          "category": "Fg",
-          "delta": 3.005614746652194
-        },
-        {
-          "category": "Ft",
-          "delta": 0.3071186631890166
-        },
-        {
-          "category": "To",
-          "delta": -1.6840668810150223
-        }
-      ],
-      "risks": [
-        "K\u00FC\u00E7\u00FCk \u00F6rneklem (7 ma\u00E7)."
       ]
     }
   ]
