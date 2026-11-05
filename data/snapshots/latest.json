@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-04T09:37:56.9871987+00:00",
+  "collectedAt": "2026-11-05T09:44:16.2385491+00:00",
   "source": "espn",
   "status": "ok",
   "league": {
@@ -95,7 +95,7 @@
       "positions": [
         "F"
       ],
-      "status": "Questionable",
+      "status": "Out",
       "season": {
         "games": 7,
         "minutes": 33,
@@ -907,7 +907,7 @@
       "positions": [
         "C"
       ],
-      "status": "Healthy",
+      "status": "Questionable",
       "season": {
         "games": 6,
         "minutes": 19.666666,
@@ -1123,7 +1123,7 @@
       "positions": [
         "G"
       ],
-      "status": "Questionable",
+      "status": "Out",
       "season": {
         "games": 7,
         "minutes": 22,
@@ -1231,7 +1231,7 @@
       "positions": [
         "G"
       ],
-      "status": "Questionable",
+      "status": "Healthy",
       "season": {
         "games": 7,
         "minutes": 17.285715,
@@ -1258,7 +1258,7 @@
       "positions": [
         "F"
       ],
-      "status": "Questionable",
+      "status": "Healthy",
       "season": {
         "games": 7,
         "minutes": 28.571428,
@@ -1609,7 +1609,7 @@
       "positions": [
         "G"
       ],
-      "status": "Healthy",
+      "status": "Out",
       "season": {
         "games": 6,
         "minutes": 25,
@@ -2068,7 +2068,7 @@
       "positions": [
         "G"
       ],
-      "status": "Questionable",
+      "status": "Out",
       "season": {
         "games": 7,
         "minutes": 23.142857,
@@ -2446,7 +2446,7 @@
       "positions": [
         "G"
       ],
-      "status": "Questionable",
+      "status": "Out",
       "season": {
         "games": 7,
         "minutes": 31.714285,
@@ -2851,7 +2851,7 @@
       "positions": [
         "G"
       ],
-      "status": "Questionable",
+      "status": "Out",
       "season": {
         "games": 5,
         "minutes": 18.6,
@@ -2932,7 +2932,7 @@
       "positions": [
         "C"
       ],
-      "status": "Questionable",
+      "status": "Healthy",
       "season": {
         "games": 5,
         "minutes": 15.2,
@@ -3013,7 +3013,7 @@
       "positions": [
         "C"
       ],
-      "status": "Healthy",
+      "status": "Questionable",
       "season": {
         "games": 7,
         "minutes": 22.428572,
@@ -3175,7 +3175,7 @@
       "positions": [
         "F"
       ],
-      "status": "Questionable",
+      "status": "Out",
       "season": {
         "games": 6,
         "minutes": 20.166666,
@@ -4201,7 +4201,7 @@
       "positions": [
         "G"
       ],
-      "status": "Healthy",
+      "status": "Questionable",
       "season": {
         "games": 6,
         "minutes": 13,
@@ -4309,7 +4309,7 @@
       "positions": [
         "F"
       ],
-      "status": "Healthy",
+      "status": "Questionable",
       "season": {
         "games": 7,
         "minutes": 21.571428,
@@ -4363,7 +4363,7 @@
       "positions": [
         "C"
       ],
-      "status": "Questionable",
+      "status": "Healthy",
       "season": {
         "games": 6,
         "minutes": 18.666666,
@@ -4508,7 +4508,7 @@
         "stl": 0.71428573,
         "blk": 0.2857143,
         "tpm": 0.85714287,
-        "to": 0.2857143,
+        "to": 0.42857143,
         "fgm": 1.8571428,
         "fga": 4.142857,
         "ftm": 0.14285715,
@@ -4633,7 +4633,7 @@
       "positions": [
         "C"
       ],
-      "status": "Questionable",
+      "status": "Healthy",
       "season": {
         "games": 5,
         "minutes": 20.2,
@@ -5092,7 +5092,7 @@
       "positions": [
         "C"
       ],
-      "status": "Questionable",
+      "status": "Out",
       "season": {
         "games": 6,
         "minutes": 14.166667,
@@ -5254,7 +5254,7 @@
       "positions": [
         "F"
       ],
-      "status": "Questionable",
+      "status": "Out",
       "season": {
         "games": 7,
         "minutes": 18.428572,
@@ -5416,7 +5416,7 @@
       "positions": [
         "G"
       ],
-      "status": "Healthy",
+      "status": "Out",
       "season": {
         "games": 6,
         "minutes": 12.166667,
@@ -5551,7 +5551,7 @@
       "positions": [
         "G"
       ],
-      "status": "Healthy",
+      "status": "Out",
       "season": {
         "games": 6,
         "minutes": 10,
@@ -5767,7 +5767,7 @@
       "positions": [
         "C"
       ],
-      "status": "Healthy",
+      "status": "Questionable",
       "season": {
         "games": 8,
         "minutes": 14.125,
@@ -5848,7 +5848,7 @@
       "positions": [
         "F"
       ],
-      "status": "Healthy",
+      "status": "Questionable",
       "season": {
         "games": 5,
         "minutes": 7.6,
@@ -5983,7 +5983,7 @@
       "positions": [
         "F"
       ],
-      "status": "Out",
+      "status": "Healthy",
       "season": {
         "games": 5,
         "minutes": 22.8,

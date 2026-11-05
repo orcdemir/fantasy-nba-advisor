@@ -1,6 +1,6 @@
 {
-  "analyzedAt": "2026-11-04T09:38:01.1388096+00:00",
-  "dataCollectedAt": "2026-11-04T09:37:56.9871987+00:00",
+  "analyzedAt": "2026-11-05T09:44:19.7098393+00:00",
+  "dataCollectedAt": "2026-11-05T09:44:16.2385491+00:00",
   "status": "ok",
   "message": null,
   "swaps": [
@@ -59,7 +59,7 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 9.297957887248216,
+      "totalDelta": 9.299835135399908,
       "impacts": [
         {
           "category": "Pts",
@@ -95,7 +95,7 @@
         },
         {
           "category": "To",
-          "delta": 2.2987921888992524
+          "delta": 2.3006694370509435
         }
       ],
       "risks": [
@@ -157,7 +157,7 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 8.944452243812464,
+      "totalDelta": 8.944295806479264,
       "impacts": [
         {
           "category": "Pts",
@@ -193,7 +193,7 @@
         },
         {
           "category": "To",
-          "delta": -0.19156600009704633
+          "delta": -0.19172243743024486
         }
       ],
       "risks": [
@@ -255,7 +255,7 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 8.802385059560677,
+      "totalDelta": 8.801446435506733,
       "impacts": [
         {
           "category": "Pts",
@@ -291,7 +291,7 @@
         },
         {
           "category": "To",
-          "delta": -1.1493960676303838
+          "delta": -1.150334691684328
         }
       ],
       "risks": [
@@ -353,7 +353,7 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 8.67510808013678,
+      "totalDelta": 8.674221601922623,
       "impacts": [
         {
           "category": "Pts",
@@ -389,7 +389,7 @@
         },
         {
           "category": "To",
-          "delta": -1.0855406582768483
+          "delta": -1.0864271364910063
         }
       ],
       "risks": [
@@ -451,7 +451,7 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 8.652287148730803,
+      "totalDelta": 8.65089876728779,
       "impacts": [
         {
           "category": "Pts",
@@ -487,7 +487,7 @@
         },
         {
           "category": "To",
-          "delta": -1.7001483866337006
+          "delta": -1.7015367680767124
         }
       ],
       "risks": [
