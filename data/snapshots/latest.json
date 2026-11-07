@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-06T09:37:52.8904492+00:00",
+  "collectedAt": "2026-11-07T09:02:21.9399425+00:00",
   "source": "espn",
   "status": "ok",
   "league": {
@@ -95,7 +95,7 @@
       "positions": [
         "F"
       ],
-      "status": "Questionable",
+      "status": "Healthy",
       "season": {
         "games": 7,
         "minutes": 33,
@@ -178,19 +178,19 @@
       ],
       "status": "Healthy",
       "season": {
-        "games": 7,
-        "minutes": 32.42857,
-        "pts": 12.428572,
-        "reb": 8.857142,
-        "ast": 1,
-        "stl": 1.2857143,
-        "blk": 0.42857143,
-        "tpm": 0.85714287,
-        "to": 1.7142857,
-        "fgm": 4.285714,
-        "fga": 7,
-        "ftm": 3,
-        "fta": 3.7142856
+        "games": 8,
+        "minutes": 32.75,
+        "pts": 14.25,
+        "reb": 9.375,
+        "ast": 1.125,
+        "stl": 1.25,
+        "blk": 0.5,
+        "tpm": 1,
+        "to": 1.875,
+        "fgm": 5,
+        "fga": 7.625,
+        "ftm": 3.25,
+        "fta": 4
       },
       "last14": null,
       "last7": null,
@@ -313,19 +313,19 @@
       ],
       "status": "Healthy",
       "season": {
-        "games": 7,
-        "minutes": 34.714287,
-        "pts": 17.857143,
-        "reb": 3.5714285,
-        "ast": 2.5714285,
-        "stl": 1,
-        "blk": 0.85714287,
-        "tpm": 3.5714285,
-        "to": 2.7142856,
-        "fgm": 5.571429,
-        "fga": 14.428572,
-        "ftm": 3.142857,
-        "fta": 3.7142856
+        "games": 8,
+        "minutes": 34.5,
+        "pts": 17.5,
+        "reb": 3.875,
+        "ast": 2.25,
+        "stl": 0.875,
+        "blk": 0.75,
+        "tpm": 3.5,
+        "to": 2.625,
+        "fgm": 5.5,
+        "fga": 14.125,
+        "ftm": 3,
+        "fta": 3.625
       },
       "last14": null,
       "last7": null,
@@ -442,6 +442,33 @@
       "gamesRemainingThisWeek": null
     },
     {
+      "playerId": "3155526",
+      "name": "Dillon Brooks",
+      "team": "PHX",
+      "positions": [
+        "F"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 7,
+        "minutes": 30.285715,
+        "pts": 17.571428,
+        "reb": 3.857143,
+        "ast": 2.7142856,
+        "stl": 1,
+        "blk": 0.2857143,
+        "tpm": 2.142857,
+        "to": 2,
+        "fgm": 6.285714,
+        "fga": 12.571428,
+        "ftm": 2.857143,
+        "fta": 3.857143
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
       "playerId": "5174563",
       "name": "Kyshawn George",
       "team": "WSH",
@@ -469,33 +496,6 @@
       "gamesRemainingThisWeek": null
     },
     {
-      "playerId": "4709138",
-      "name": "Brandin Podziemski",
-      "team": "GS",
-      "positions": [
-        "G"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 6,
-        "minutes": 33.5,
-        "pts": 17,
-        "reb": 5,
-        "ast": 5,
-        "stl": 1.1666666,
-        "blk": 0.33333334,
-        "tpm": 2.3333333,
-        "to": 1.8333334,
-        "fgm": 6.1666665,
-        "fga": 13.333333,
-        "ftm": 2.3333333,
-        "fta": 3.3333333
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
       "playerId": "4432848",
       "name": "Jaime Jaquez Jr.",
       "team": "MIL",
@@ -517,33 +517,6 @@
         "fga": 12.875,
         "ftm": 2.125,
         "fta": 3.25
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
-      "playerId": "3155526",
-      "name": "Dillon Brooks",
-      "team": "PHX",
-      "positions": [
-        "F"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 6,
-        "minutes": 30.5,
-        "pts": 16.5,
-        "reb": 4.3333335,
-        "ast": 3,
-        "stl": 0.8333333,
-        "blk": 0.16666667,
-        "tpm": 1.8333334,
-        "to": 2.1666667,
-        "fgm": 5.8333335,
-        "fga": 12,
-        "ftm": 3,
-        "fta": 4.1666665
       },
       "last14": null,
       "last7": null,
@@ -604,6 +577,33 @@
       "gamesRemainingThisWeek": null
     },
     {
+      "playerId": "4709138",
+      "name": "Brandin Podziemski",
+      "team": "GS",
+      "positions": [
+        "G"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 7,
+        "minutes": 33.285713,
+        "pts": 15.857142,
+        "reb": 5.142857,
+        "ast": 4.714286,
+        "stl": 1.1428572,
+        "blk": 0.42857143,
+        "tpm": 2.2857144,
+        "to": 1.7142857,
+        "fgm": 5.714286,
+        "fga": 12.571428,
+        "ftm": 2.142857,
+        "fta": 3.142857
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
       "playerId": "3135045",
       "name": "Grayson Allen",
       "team": "CHA",
@@ -658,6 +658,33 @@
       "gamesRemainingThisWeek": null
     },
     {
+      "playerId": "4702382",
+      "name": "Tristan da Silva",
+      "team": "ORL",
+      "positions": [
+        "F"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 8,
+        "minutes": 29.5,
+        "pts": 14.625,
+        "reb": 3.25,
+        "ast": 1.625,
+        "stl": 0.25,
+        "blk": 0.375,
+        "tpm": 3.375,
+        "to": 1.5,
+        "fgm": 5.5,
+        "fga": 11.375,
+        "ftm": 0.25,
+        "fta": 0.625
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
       "playerId": "4431767",
       "name": "Christian Braun",
       "team": "DEN",
@@ -685,60 +712,6 @@
       "gamesRemainingThisWeek": null
     },
     {
-      "playerId": "4702382",
-      "name": "Tristan da Silva",
-      "team": "ORL",
-      "positions": [
-        "F"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 7,
-        "minutes": 29.428572,
-        "pts": 14.142858,
-        "reb": 3.4285715,
-        "ast": 1.7142857,
-        "stl": 0.2857143,
-        "blk": 0.42857143,
-        "tpm": 3.2857144,
-        "to": 1.2857143,
-        "fgm": 5.428571,
-        "fga": 10.857142,
-        "ftm": 0,
-        "fta": 0.42857143
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
-      "playerId": "6475",
-      "name": "Klay Thompson",
-      "team": "MIA",
-      "positions": [
-        "G"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 8,
-        "minutes": 23.5,
-        "pts": 14.125,
-        "reb": 1.75,
-        "ast": 1.5,
-        "stl": 0.125,
-        "blk": 0.25,
-        "tpm": 3.875,
-        "to": 1,
-        "fgm": 5,
-        "fga": 11,
-        "ftm": 0.25,
-        "fta": 0.25
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
       "playerId": "4397183",
       "name": "Aaron Wiggins",
       "team": "ATL",
@@ -760,6 +733,33 @@
         "fga": 11.666667,
         "ftm": 0.5555556,
         "fta": 0.8888889
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
+      "playerId": "6475",
+      "name": "Klay Thompson",
+      "team": "MIA",
+      "positions": [
+        "G"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 9,
+        "minutes": 23.444445,
+        "pts": 13.777778,
+        "reb": 1.5555556,
+        "ast": 1.6666666,
+        "stl": 0.11111111,
+        "blk": 0.44444445,
+        "tpm": 3.6666667,
+        "to": 1.2222222,
+        "fgm": 4.7777777,
+        "fga": 10.888889,
+        "ftm": 0.5555556,
+        "fta": 0.5555556
       },
       "last14": null,
       "last7": null,
@@ -880,7 +880,7 @@
       "positions": [
         "F"
       ],
-      "status": "Healthy",
+      "status": "Out",
       "season": {
         "games": 8,
         "minutes": 31.125,
@@ -907,7 +907,7 @@
       "positions": [
         "G"
       ],
-      "status": "Questionable",
+      "status": "Healthy",
       "season": {
         "games": 8,
         "minutes": 26.75,
@@ -922,33 +922,6 @@
         "fga": 9.875,
         "ftm": 3.125,
         "fta": 3.625
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
-      "playerId": "4437244",
-      "name": "Jalen Green",
-      "team": "PHX",
-      "positions": [
-        "G"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 6,
-        "minutes": 29,
-        "pts": 12.833333,
-        "reb": 3.3333333,
-        "ast": 3.3333333,
-        "stl": 0.5,
-        "blk": 1,
-        "tpm": 1,
-        "to": 2.3333333,
-        "fgm": 4.8333335,
-        "fga": 12,
-        "ftm": 2.1666667,
-        "fta": 3.1666667
       },
       "last14": null,
       "last7": null,
@@ -1123,7 +1096,7 @@
       "positions": [
         "G"
       ],
-      "status": "Questionable",
+      "status": "Out",
       "season": {
         "games": 7,
         "minutes": 22,
@@ -1252,6 +1225,33 @@
       "gamesRemainingThisWeek": null
     },
     {
+      "playerId": "4437244",
+      "name": "Jalen Green",
+      "team": "PHX",
+      "positions": [
+        "G"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 7,
+        "minutes": 28.285715,
+        "pts": 11.857142,
+        "reb": 2.857143,
+        "ast": 3.2857144,
+        "stl": 0.71428573,
+        "blk": 0.85714287,
+        "tpm": 0.85714287,
+        "to": 2.2857144,
+        "fgm": 4.571429,
+        "fga": 11.285714,
+        "ftm": 1.8571428,
+        "fta": 2.7142856
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
       "playerId": "3936099",
       "name": "Derrick Jones Jr.",
       "team": "LAC",
@@ -1287,19 +1287,19 @@
       ],
       "status": "Healthy",
       "season": {
-        "games": 7,
-        "minutes": 17.285715,
-        "pts": 11.571428,
-        "reb": 2.857143,
-        "ast": 2.4285715,
-        "stl": 1,
-        "blk": 0.2857143,
-        "tpm": 1,
-        "to": 1.5714285,
-        "fgm": 3.4285715,
-        "fga": 9,
-        "ftm": 3.7142856,
-        "fta": 4.428571
+        "games": 8,
+        "minutes": 17.75,
+        "pts": 11.375,
+        "reb": 2.625,
+        "ast": 2.625,
+        "stl": 0.875,
+        "blk": 0.5,
+        "tpm": 0.875,
+        "to": 1.625,
+        "fgm": 3.5,
+        "fga": 8.75,
+        "ftm": 3.5,
+        "fta": 4.125
       },
       "last14": null,
       "last7": null,
@@ -1327,6 +1327,33 @@
         "fga": 8.5,
         "ftm": 1.625,
         "fta": 2.625
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
+      "playerId": "4601025",
+      "name": "Pelle Larsson",
+      "team": "MIA",
+      "positions": [
+        "G"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 9,
+        "minutes": 30.11111,
+        "pts": 11.111111,
+        "reb": 3.1111112,
+        "ast": 3.7777777,
+        "stl": 1.3333334,
+        "blk": 0.11111111,
+        "tpm": 1.1111112,
+        "to": 1.7777778,
+        "fgm": 3.1111112,
+        "fga": 7,
+        "ftm": 3.7777777,
+        "fta": 4.2222223
       },
       "last14": null,
       "last7": null,
@@ -1414,40 +1441,13 @@
       "gamesRemainingThisWeek": null
     },
     {
-      "playerId": "4601025",
-      "name": "Pelle Larsson",
-      "team": "MIA",
-      "positions": [
-        "G"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 8,
-        "minutes": 30.25,
-        "pts": 10.875,
-        "reb": 3.375,
-        "ast": 3.75,
-        "stl": 1.125,
-        "blk": 0.125,
-        "tpm": 0.875,
-        "to": 1.375,
-        "fgm": 3,
-        "fga": 6.75,
-        "ftm": 4,
-        "fta": 4.5
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
       "playerId": "4576087",
       "name": "Peyton Watson",
       "team": "CLE",
       "positions": [
         "G"
       ],
-      "status": "Questionable",
+      "status": "Healthy",
       "season": {
         "games": 6,
         "minutes": 28.5,
@@ -1489,33 +1489,6 @@
         "fga": 8.666667,
         "ftm": 3.3333333,
         "fta": 4
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
-      "playerId": "4066436",
-      "name": "De\u0027Anthony Melton",
-      "team": "GS",
-      "positions": [
-        "G"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 8,
-        "minutes": 23,
-        "pts": 10.625,
-        "reb": 4.5,
-        "ast": 2.25,
-        "stl": 1.5,
-        "blk": 0.375,
-        "tpm": 2.375,
-        "to": 1.375,
-        "fgm": 3.375,
-        "fga": 7.75,
-        "ftm": 1.5,
-        "fta": 1.75
       },
       "last14": null,
       "last7": null,
@@ -1609,7 +1582,7 @@
       "positions": [
         "G"
       ],
-      "status": "Questionable",
+      "status": "Out",
       "season": {
         "games": 9,
         "minutes": 29.88889,
@@ -1705,6 +1678,33 @@
         "fga": 7.875,
         "ftm": 1.625,
         "fta": 1.625
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
+      "playerId": "4066436",
+      "name": "De\u0027Anthony Melton",
+      "team": "GS",
+      "positions": [
+        "G"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 9,
+        "minutes": 22.333334,
+        "pts": 10,
+        "reb": 4.6666665,
+        "ast": 2.2222223,
+        "stl": 1.6666666,
+        "blk": 0.33333334,
+        "tpm": 2.1111112,
+        "to": 1.5555556,
+        "fgm": 3.1111112,
+        "fga": 7.4444447,
+        "ftm": 1.6666666,
+        "fta": 2
       },
       "last14": null,
       "last7": null,
@@ -1927,33 +1927,6 @@
       "gamesRemainingThisWeek": null
     },
     {
-      "playerId": "3059319",
-      "name": "Andrew Wiggins",
-      "team": "MIA",
-      "positions": [
-        "F"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 8,
-        "minutes": 26.375,
-        "pts": 9.375,
-        "reb": 2.75,
-        "ast": 1.375,
-        "stl": 0.625,
-        "blk": 0.75,
-        "tpm": 1.375,
-        "to": 1.125,
-        "fgm": 3.75,
-        "fga": 8.75,
-        "ftm": 0.5,
-        "fta": 0.75
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
       "playerId": "3908845",
       "name": "John Collins",
       "team": "DET",
@@ -2122,7 +2095,7 @@
       "positions": [
         "F"
       ],
-      "status": "Questionable",
+      "status": "Healthy",
       "season": {
         "games": 9,
         "minutes": 23.444445,
@@ -2176,7 +2149,7 @@
       "positions": [
         "F"
       ],
-      "status": "Questionable",
+      "status": "Out",
       "season": {
         "games": 9,
         "minutes": 28.777779,
@@ -2311,7 +2284,7 @@
       "positions": [
         "G"
       ],
-      "status": "Healthy",
+      "status": "Out",
       "season": {
         "games": 8,
         "minutes": 24.375,
@@ -2392,7 +2365,7 @@
       "positions": [
         "G"
       ],
-      "status": "Questionable",
+      "status": "Out",
       "season": {
         "games": 7,
         "minutes": 31.714285,
@@ -2407,6 +2380,33 @@
         "fga": 8.142858,
         "ftm": 0.42857143,
         "fta": 0.71428573
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
+      "playerId": "3059319",
+      "name": "Andrew Wiggins",
+      "team": "MIA",
+      "positions": [
+        "F"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 9,
+        "minutes": 25.88889,
+        "pts": 8.555555,
+        "reb": 3.1111112,
+        "ast": 1.6666666,
+        "stl": 0.5555556,
+        "blk": 0.7777778,
+        "tpm": 1.2222222,
+        "to": 1.2222222,
+        "fgm": 3.4444444,
+        "fga": 8.444445,
+        "ftm": 0.44444445,
+        "fta": 0.6666667
       },
       "last14": null,
       "last7": null,
@@ -2542,33 +2542,6 @@
         "fga": 5.75,
         "ftm": 1,
         "fta": 1.125
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
-      "playerId": "3064482",
-      "name": "Bobby Portis",
-      "team": "MIA",
-      "positions": [
-        "F"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 8,
-        "minutes": 21.625,
-        "pts": 8.25,
-        "reb": 7.125,
-        "ast": 2.125,
-        "stl": 0.875,
-        "blk": 0.625,
-        "tpm": 1.5,
-        "to": 1.125,
-        "fgm": 3.125,
-        "fga": 7.875,
-        "ftm": 0.5,
-        "fta": 0.625
       },
       "last14": null,
       "last7": null,
@@ -2737,6 +2710,33 @@
       "gamesRemainingThisWeek": null
     },
     {
+      "playerId": "2990969",
+      "name": "Georges Niang",
+      "team": "GS",
+      "positions": [
+        "F"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 9,
+        "minutes": 20.11111,
+        "pts": 7.888889,
+        "reb": 3.1111112,
+        "ast": 1.6666666,
+        "stl": 0.6666667,
+        "blk": 0.11111111,
+        "tpm": 1.2222222,
+        "to": 1.4444444,
+        "fgm": 3.1111112,
+        "fga": 6.7777777,
+        "ftm": 0.44444445,
+        "fta": 0.6666667
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
       "playerId": "5104155",
       "name": "Bilal Coulibaly",
       "team": "WSH",
@@ -2758,6 +2758,33 @@
         "fga": 5.75,
         "ftm": 1.25,
         "fta": 1.75
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
+      "playerId": "3913174",
+      "name": "Luke Kennard",
+      "team": "PHX",
+      "positions": [
+        "G"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 6,
+        "minutes": 16.666666,
+        "pts": 7.8333335,
+        "reb": 1.5,
+        "ast": 2,
+        "stl": 0.16666667,
+        "blk": 0,
+        "tpm": 2,
+        "to": 0.16666667,
+        "fgm": 2.5,
+        "fga": 4.8333335,
+        "ftm": 0.8333333,
+        "fta": 1
       },
       "last14": null,
       "last7": null,
@@ -2953,6 +2980,33 @@
       "gamesRemainingThisWeek": null
     },
     {
+      "playerId": "3064482",
+      "name": "Bobby Portis",
+      "team": "MIA",
+      "positions": [
+        "F"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 9,
+        "minutes": 20.777779,
+        "pts": 7.3333335,
+        "reb": 6.888889,
+        "ast": 1.8888888,
+        "stl": 0.7777778,
+        "blk": 0.5555556,
+        "tpm": 1.3333334,
+        "to": 1,
+        "fgm": 2.7777777,
+        "fga": 7.3333335,
+        "ftm": 0.44444445,
+        "fta": 0.5555556
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
       "playerId": "4397077",
       "name": "Jaxson Hayes",
       "team": "UTAH",
@@ -2980,27 +3034,27 @@
       "gamesRemainingThisWeek": null
     },
     {
-      "playerId": "2990969",
-      "name": "Georges Niang",
-      "team": "GS",
+      "playerId": "5203685",
+      "name": "Khaman Maluach",
+      "team": "PHX",
       "positions": [
-        "F"
+        "C"
       ],
       "status": "Healthy",
       "season": {
-        "games": 8,
-        "minutes": 19.875,
-        "pts": 7.25,
-        "reb": 3,
-        "ast": 1.5,
-        "stl": 0.625,
-        "blk": 0.125,
-        "tpm": 1.125,
-        "to": 1.375,
-        "fgm": 2.875,
-        "fga": 6.625,
-        "ftm": 0.375,
-        "fta": 0.5
+        "games": 7,
+        "minutes": 19.714285,
+        "pts": 7.285714,
+        "reb": 6,
+        "ast": 1.2857143,
+        "stl": 0.71428573,
+        "blk": 0.85714287,
+        "tpm": 0.14285715,
+        "to": 1.4285715,
+        "fgm": 3,
+        "fga": 5.285714,
+        "ftm": 1.1428572,
+        "fta": 1.5714285
       },
       "last14": null,
       "last7": null,
@@ -3088,33 +3142,6 @@
       "gamesRemainingThisWeek": null
     },
     {
-      "playerId": "4997536",
-      "name": "Gui Santos",
-      "team": "GS",
-      "positions": [
-        "F"
-      ],
-      "status": "Questionable",
-      "season": {
-        "games": 6,
-        "minutes": 20.166666,
-        "pts": 7.1666665,
-        "reb": 4,
-        "ast": 1.3333334,
-        "stl": 0.5,
-        "blk": 0.33333334,
-        "tpm": 0.6666667,
-        "to": 0.6666667,
-        "fgm": 2.5,
-        "fga": 5.1666665,
-        "ftm": 1.5,
-        "fta": 2.3333333
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
       "playerId": "5164559",
       "name": "Nate Ament",
       "team": "MIL",
@@ -3142,40 +3169,13 @@
       "gamesRemainingThisWeek": null
     },
     {
-      "playerId": "5203685",
-      "name": "Khaman Maluach",
-      "team": "PHX",
-      "positions": [
-        "C"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 6,
-        "minutes": 19.333334,
-        "pts": 7.1666665,
-        "reb": 6,
-        "ast": 1.1666666,
-        "stl": 0.5,
-        "blk": 1,
-        "tpm": 0.16666667,
-        "to": 1.5,
-        "fgm": 2.8333333,
-        "fga": 5.1666665,
-        "ftm": 1.3333334,
-        "fta": 1.8333334
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
       "playerId": "4432582",
       "name": "Max Christie",
       "team": "DAL",
       "positions": [
         "G"
       ],
-      "status": "Questionable",
+      "status": "Healthy",
       "season": {
         "games": 7,
         "minutes": 23.714285,
@@ -3250,27 +3250,54 @@
       "gamesRemainingThisWeek": null
     },
     {
-      "playerId": "3913174",
-      "name": "Luke Kennard",
+      "playerId": "4397886",
+      "name": "Charles Bassey",
+      "team": "GS",
+      "positions": [
+        "C"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 7,
+        "minutes": 11.857142,
+        "pts": 7,
+        "reb": 5.285714,
+        "ast": 0.5714286,
+        "stl": 0.14285715,
+        "blk": 1,
+        "tpm": 0,
+        "to": 0.85714287,
+        "fgm": 2.7142856,
+        "fga": 4.142857,
+        "ftm": 1.5714285,
+        "fta": 1.8571428
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
+      "playerId": "4601023",
+      "name": "Oso Ighodaro",
       "team": "PHX",
       "positions": [
-        "G"
+        "F"
       ],
       "status": "Healthy",
       "season": {
         "games": 5,
-        "minutes": 15.8,
+        "minutes": 21.4,
         "pts": 7,
-        "reb": 1.6,
-        "ast": 1.4,
-        "stl": 0.2,
-        "blk": 0,
-        "tpm": 1.8,
-        "to": 0.2,
-        "fgm": 2.2,
-        "fga": 4.2,
-        "ftm": 0.8,
-        "fta": 0.8
+        "reb": 5.2,
+        "ast": 3.6,
+        "stl": 0,
+        "blk": 1,
+        "tpm": 0,
+        "to": 2,
+        "fgm": 3.2,
+        "fga": 4.8,
+        "ftm": 0.6,
+        "fta": 1.8
       },
       "last14": null,
       "last7": null,
@@ -3358,60 +3385,6 @@
       "gamesRemainingThisWeek": null
     },
     {
-      "playerId": "4278585",
-      "name": "Collin Gillespie",
-      "team": "PHX",
-      "positions": [
-        "G"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 6,
-        "minutes": 25.5,
-        "pts": 6.8333335,
-        "reb": 2.1666667,
-        "ast": 4.5,
-        "stl": 2.6666667,
-        "blk": 0.16666667,
-        "tpm": 1.6666666,
-        "to": 2,
-        "fgm": 2.5,
-        "fga": 8,
-        "ftm": 0.16666667,
-        "fta": 0.6666667
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
-      "playerId": "4397886",
-      "name": "Charles Bassey",
-      "team": "GS",
-      "positions": [
-        "C"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 6,
-        "minutes": 11.333333,
-        "pts": 6.8333335,
-        "reb": 5,
-        "ast": 0.6666667,
-        "stl": 0.16666667,
-        "blk": 0.6666667,
-        "tpm": 0,
-        "to": 0.5,
-        "fgm": 2.6666667,
-        "fga": 4.1666665,
-        "ftm": 1.5,
-        "fta": 1.8333334
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
       "playerId": "5174983",
       "name": "Aday Mara",
       "team": "OKC",
@@ -3433,6 +3406,33 @@
         "fga": 5,
         "ftm": 1,
         "fta": 1.375
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
+      "playerId": "4278585",
+      "name": "Collin Gillespie",
+      "team": "PHX",
+      "positions": [
+        "G"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 7,
+        "minutes": 25.285715,
+        "pts": 6.714286,
+        "reb": 2.142857,
+        "ast": 4.142857,
+        "stl": 2.7142856,
+        "blk": 0.14285715,
+        "tpm": 1.7142857,
+        "to": 1.8571428,
+        "fgm": 2.4285715,
+        "fga": 8.142858,
+        "ftm": 0.14285715,
+        "fta": 0.5714286
       },
       "last14": null,
       "last7": null,
@@ -3655,6 +3655,33 @@
       "gamesRemainingThisWeek": null
     },
     {
+      "playerId": "5239561",
+      "name": "Jase Richardson",
+      "team": "ORL",
+      "positions": [
+        "G"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 8,
+        "minutes": 21.875,
+        "pts": 6.375,
+        "reb": 1.875,
+        "ast": 2.5,
+        "stl": 0.75,
+        "blk": 0.625,
+        "tpm": 0.875,
+        "to": 0.875,
+        "fgm": 2.5,
+        "fga": 6.625,
+        "ftm": 0.5,
+        "fta": 0.625
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
       "playerId": "3146557",
       "name": "Jock Landale",
       "team": "ATL",
@@ -3688,7 +3715,7 @@
       "positions": [
         "G"
       ],
-      "status": "Questionable",
+      "status": "Healthy",
       "season": {
         "games": 7,
         "minutes": 14.285714,
@@ -3769,7 +3796,7 @@
       "positions": [
         "F"
       ],
-      "status": "Healthy",
+      "status": "Out",
       "season": {
         "games": 9,
         "minutes": 17.555555,
@@ -3871,33 +3898,6 @@
       "gamesRemainingThisWeek": null
     },
     {
-      "playerId": "4278572",
-      "name": "Jamal Cain",
-      "team": "ORL",
-      "positions": [
-        "F"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 7,
-        "minutes": 16.428572,
-        "pts": 6,
-        "reb": 1.5714285,
-        "ast": 0.2857143,
-        "stl": 0.2857143,
-        "blk": 0,
-        "tpm": 1,
-        "to": 1.1428572,
-        "fgm": 2,
-        "fga": 4.285714,
-        "ftm": 1,
-        "fta": 1
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
       "playerId": "5106258",
       "name": "Gradey Dick",
       "team": "LAC",
@@ -3919,6 +3919,33 @@
         "fga": 4.625,
         "ftm": 1.125,
         "fta": 1.25
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
+      "playerId": "4278572",
+      "name": "Jamal Cain",
+      "team": "ORL",
+      "positions": [
+        "F"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 8,
+        "minutes": 17.5,
+        "pts": 5.875,
+        "reb": 2,
+        "ast": 0.25,
+        "stl": 0.25,
+        "blk": 0,
+        "tpm": 1,
+        "to": 1.25,
+        "fgm": 2,
+        "fga": 4.875,
+        "ftm": 0.875,
+        "fta": 1
       },
       "last14": null,
       "last7": null,
@@ -3952,60 +3979,6 @@
       "gamesRemainingThisWeek": null
     },
     {
-      "playerId": "5239561",
-      "name": "Jase Richardson",
-      "team": "ORL",
-      "positions": [
-        "G"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 7,
-        "minutes": 21.142857,
-        "pts": 5.857143,
-        "reb": 1.8571428,
-        "ast": 2.4285715,
-        "stl": 0.5714286,
-        "blk": 0.42857143,
-        "tpm": 0.71428573,
-        "to": 0.5714286,
-        "fgm": 2.2857144,
-        "fga": 6.285714,
-        "ftm": 0.5714286,
-        "fta": 0.71428573
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
-      "playerId": "4703396",
-      "name": "Graham Ike",
-      "team": "GS",
-      "positions": [
-        "F"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 6,
-        "minutes": 11.166667,
-        "pts": 5.8333335,
-        "reb": 2.6666667,
-        "ast": 0.8333333,
-        "stl": 0.5,
-        "blk": 0.16666667,
-        "tpm": 0.6666667,
-        "to": 0.33333334,
-        "fgm": 2.1666667,
-        "fga": 4.1666665,
-        "ftm": 0.8333333,
-        "fta": 1
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
       "playerId": "2581018",
       "name": "Kentavious Caldwell-Pope",
       "team": "PHI",
@@ -4027,33 +4000,6 @@
         "fga": 4.5555553,
         "ftm": 0.44444445,
         "fta": 0.44444445
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
-      "playerId": "2528210",
-      "name": "Tim Hardaway Jr.",
-      "team": "MIA",
-      "positions": [
-        "G"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 8,
-        "minutes": 16.875,
-        "pts": 5.75,
-        "reb": 1.625,
-        "ast": 0.625,
-        "stl": 0.25,
-        "blk": 0.5,
-        "tpm": 1.125,
-        "to": 0.75,
-        "fgm": 1.75,
-        "fga": 5.75,
-        "ftm": 1.125,
-        "fta": 1.625
       },
       "last14": null,
       "last7": null,
@@ -4174,7 +4120,7 @@
       "positions": [
         "F"
       ],
-      "status": "Questionable",
+      "status": "Healthy",
       "season": {
         "games": 8,
         "minutes": 21,
@@ -4243,6 +4189,33 @@
         "fga": 4.875,
         "ftm": 1.5,
         "fta": 1.625
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
+      "playerId": "3213",
+      "name": "Al Horford",
+      "team": "GS",
+      "positions": [
+        "C"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 7,
+        "minutes": 18.571428,
+        "pts": 5.428571,
+        "reb": 4.142857,
+        "ast": 1,
+        "stl": 0.2857143,
+        "blk": 0.5714286,
+        "tpm": 1.4285715,
+        "to": 0.85714287,
+        "fgm": 2,
+        "fga": 4.285714,
+        "ftm": 0,
+        "fta": 0.14285715
       },
       "last14": null,
       "last7": null,
@@ -4330,6 +4303,33 @@
       "gamesRemainingThisWeek": null
     },
     {
+      "playerId": "4888725",
+      "name": "Ryan Dunn",
+      "team": "PHX",
+      "positions": [
+        "F"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 7,
+        "minutes": 15,
+        "pts": 5.285714,
+        "reb": 3.5714285,
+        "ast": 1.1428572,
+        "stl": 0.2857143,
+        "blk": 0.85714287,
+        "tpm": 0.71428573,
+        "to": 0.2857143,
+        "fgm": 2,
+        "fga": 4,
+        "ftm": 0.5714286,
+        "fta": 0.85714287
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
       "playerId": "5211176",
       "name": "Tidjane Salaun",
       "team": "CHA",
@@ -4378,6 +4378,33 @@
         "fga": 6,
         "ftm": 0.7777778,
         "fta": 1
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
+      "playerId": "4897262",
+      "name": "Will Richard",
+      "team": "GS",
+      "positions": [
+        "G"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 9,
+        "minutes": 17.777779,
+        "pts": 5.2222223,
+        "reb": 1.7777778,
+        "ast": 1,
+        "stl": 0.44444445,
+        "blk": 0.33333334,
+        "tpm": 1,
+        "to": 0.44444445,
+        "fgm": 2,
+        "fga": 4.3333335,
+        "ftm": 0.22222222,
+        "fta": 0.33333334
       },
       "last14": null,
       "last7": null,
@@ -4438,27 +4465,54 @@
       "gamesRemainingThisWeek": null
     },
     {
-      "playerId": "3213",
-      "name": "Al Horford",
-      "team": "GS",
+      "playerId": "2528210",
+      "name": "Tim Hardaway Jr.",
+      "team": "MIA",
       "positions": [
-        "C"
+        "G"
       ],
       "status": "Healthy",
       "season": {
-        "games": 6,
-        "minutes": 18.666666,
-        "pts": 5,
-        "reb": 4,
-        "ast": 1,
-        "stl": 0.33333334,
-        "blk": 0.6666667,
-        "tpm": 1.3333334,
-        "to": 1,
-        "fgm": 1.8333334,
-        "fga": 4.5,
-        "ftm": 0,
-        "fta": 0.16666667
+        "games": 9,
+        "minutes": 15.444445,
+        "pts": 5.111111,
+        "reb": 1.4444444,
+        "ast": 0.6666667,
+        "stl": 0.22222222,
+        "blk": 0.44444445,
+        "tpm": 1,
+        "to": 0.6666667,
+        "fgm": 1.5555556,
+        "fga": 5.4444447,
+        "ftm": 1,
+        "fta": 1.4444444
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
+      "playerId": "3134903",
+      "name": "Gary Payton II",
+      "team": "GS",
+      "positions": [
+        "G"
+      ],
+      "status": "Questionable",
+      "season": {
+        "games": 9,
+        "minutes": 13.444445,
+        "pts": 5.111111,
+        "reb": 1.7777778,
+        "ast": 0.44444445,
+        "stl": 0.6666667,
+        "blk": 0,
+        "tpm": 0.44444445,
+        "to": 0.7777778,
+        "fgm": 2.2222223,
+        "fga": 4.6666665,
+        "ftm": 0.22222222,
+        "fta": 0.22222222
       },
       "last14": null,
       "last7": null,
@@ -4492,54 +4546,27 @@
       "gamesRemainingThisWeek": null
     },
     {
-      "playerId": "3134903",
-      "name": "Gary Payton II",
+      "playerId": "4703396",
+      "name": "Graham Ike",
       "team": "GS",
       "positions": [
-        "G"
+        "F"
       ],
       "status": "Healthy",
       "season": {
-        "games": 8,
-        "minutes": 13.875,
-        "pts": 4.625,
-        "reb": 2,
-        "ast": 0.5,
-        "stl": 0.625,
-        "blk": 0,
-        "tpm": 0.375,
-        "to": 0.75,
-        "fgm": 2.125,
-        "fga": 4.875,
-        "ftm": 0,
-        "fta": 0
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
-      "playerId": "4897262",
-      "name": "Will Richard",
-      "team": "GS",
-      "positions": [
-        "G"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 8,
-        "minutes": 18,
-        "pts": 4.625,
-        "reb": 2,
-        "ast": 0.875,
-        "stl": 0.5,
-        "blk": 0.25,
-        "tpm": 0.875,
-        "to": 0.375,
-        "fgm": 1.75,
-        "fga": 4.125,
-        "ftm": 0.25,
-        "fta": 0.375
+        "games": 7,
+        "minutes": 9.714286,
+        "pts": 5,
+        "reb": 2.4285715,
+        "ast": 0.71428573,
+        "stl": 0.42857143,
+        "blk": 0.14285715,
+        "tpm": 0.5714286,
+        "to": 0.2857143,
+        "fgm": 1.8571428,
+        "fga": 3.5714285,
+        "ftm": 0.71428573,
+        "fta": 0.85714287
       },
       "last14": null,
       "last7": null,
@@ -4735,33 +4762,6 @@
       "gamesRemainingThisWeek": null
     },
     {
-      "playerId": "4888725",
-      "name": "Ryan Dunn",
-      "team": "PHX",
-      "positions": [
-        "F"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 6,
-        "minutes": 13.333333,
-        "pts": 4.3333335,
-        "reb": 3.6666667,
-        "ast": 0.8333333,
-        "stl": 0.33333334,
-        "blk": 0.8333333,
-        "tpm": 0.6666667,
-        "to": 0.33333334,
-        "fgm": 1.5,
-        "fga": 3.5,
-        "ftm": 0.6666667,
-        "fta": 1
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
       "playerId": "4683689",
       "name": "Jordan Walsh",
       "team": "BOS",
@@ -4837,6 +4837,33 @@
         "fga": 5.375,
         "ftm": 0.125,
         "fta": 0.25
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
+      "playerId": "5107157",
+      "name": "Ryan Conwell",
+      "team": "MIA",
+      "positions": [
+        "G"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 7,
+        "minutes": 10.285714,
+        "pts": 3.857143,
+        "reb": 0.71428573,
+        "ast": 1,
+        "stl": 0.71428573,
+        "blk": 0,
+        "tpm": 0.85714287,
+        "to": 0.14285715,
+        "fgm": 1.2857143,
+        "fga": 3.2857144,
+        "ftm": 0.42857143,
+        "fta": 0.5714286
       },
       "last14": null,
       "last7": null,
@@ -4932,19 +4959,19 @@
       ],
       "status": "Healthy",
       "season": {
-        "games": 5,
-        "minutes": 9.4,
-        "pts": 3.6,
-        "reb": 2.8,
-        "ast": 0.4,
-        "stl": 0.2,
-        "blk": 0.4,
+        "games": 6,
+        "minutes": 9.166667,
+        "pts": 3.6666667,
+        "reb": 3.1666667,
+        "ast": 0.33333334,
+        "stl": 0.16666667,
+        "blk": 0.33333334,
         "tpm": 0,
-        "to": 0.4,
-        "fgm": 0.8,
+        "to": 0.5,
+        "fgm": 1,
         "fga": 2,
-        "ftm": 2,
-        "fta": 2.2
+        "ftm": 1.6666666,
+        "fta": 2.5
       },
       "last14": null,
       "last7": null,
@@ -4972,6 +4999,33 @@
         "fga": 3,
         "ftm": 0.6666667,
         "fta": 0.6666667
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
+      "playerId": "4066268",
+      "name": "Duop Reath",
+      "team": "PHX",
+      "positions": [
+        "C"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 5,
+        "minutes": 5.4,
+        "pts": 3.4,
+        "reb": 0.8,
+        "ast": 0,
+        "stl": 0,
+        "blk": 0.2,
+        "tpm": 0.6,
+        "to": 0.4,
+        "fgm": 1.2,
+        "fga": 1.8,
+        "ftm": 0.4,
+        "fta": 0.4
       },
       "last14": null,
       "last7": null,
@@ -5038,48 +5092,21 @@
       "positions": [
         "F"
       ],
-      "status": "Healthy",
-      "season": {
-        "games": 6,
-        "minutes": 26.5,
-        "pts": 3.1666667,
-        "reb": 5,
-        "ast": 6.3333335,
-        "stl": 0.8333333,
-        "blk": 0.8333333,
-        "tpm": 0.33333334,
-        "to": 3.1666667,
-        "fgm": 1.1666666,
-        "fga": 3,
-        "ftm": 0.5,
-        "fta": 0.6666667
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
-      "playerId": "6478",
-      "name": "Nikola Vucevic",
-      "team": "ORL",
-      "positions": [
-        "C"
-      ],
-      "status": "Healthy",
+      "status": "Questionable",
       "season": {
         "games": 7,
-        "minutes": 9.571428,
-        "pts": 3.142857,
-        "reb": 3,
-        "ast": 1.2857143,
-        "stl": 0,
-        "blk": 0.71428573,
-        "tpm": 0.42857143,
-        "to": 0.42857143,
-        "fgm": 1.2857143,
+        "minutes": 26.714285,
+        "pts": 3,
+        "reb": 5,
+        "ast": 7,
+        "stl": 0.85714287,
+        "blk": 0.85714287,
+        "tpm": 0.2857143,
+        "to": 3.142857,
+        "fgm": 1.1428572,
         "fga": 3,
-        "ftm": 0.14285715,
-        "fta": 0.2857143
+        "ftm": 0.42857143,
+        "fta": 0.5714286
       },
       "last14": null,
       "last7": null,
@@ -5167,33 +5194,6 @@
       "gamesRemainingThisWeek": null
     },
     {
-      "playerId": "4433149",
-      "name": "LJ Cryer",
-      "team": "GS",
-      "positions": [
-        "G"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 6,
-        "minutes": 4.8333335,
-        "pts": 3,
-        "reb": 0.33333334,
-        "ast": 1.1666666,
-        "stl": 0,
-        "blk": 0,
-        "tpm": 0.8333333,
-        "to": 0.16666667,
-        "fgm": 1,
-        "fga": 2.6666667,
-        "ftm": 0.16666667,
-        "fta": 0.33333334
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
       "playerId": "3135046",
       "name": "Tyus Jones",
       "team": "DEN",
@@ -5242,6 +5242,33 @@
         "fga": 4.285714,
         "ftm": 0.42857143,
         "fta": 0.42857143
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
+      "playerId": "6478",
+      "name": "Nikola Vucevic",
+      "team": "ORL",
+      "positions": [
+        "C"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 8,
+        "minutes": 8.875,
+        "pts": 2.75,
+        "reb": 2.625,
+        "ast": 1.125,
+        "stl": 0,
+        "blk": 0.625,
+        "tpm": 0.375,
+        "to": 0.375,
+        "fgm": 1.125,
+        "fga": 2.75,
+        "ftm": 0.125,
+        "fta": 0.25
       },
       "last14": null,
       "last7": null,
@@ -5302,33 +5329,6 @@
       "gamesRemainingThisWeek": null
     },
     {
-      "playerId": "4997528",
-      "name": "Nikola Jovic",
-      "team": "MIA",
-      "positions": [
-        "F"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 6,
-        "minutes": 12.166667,
-        "pts": 2.6666667,
-        "reb": 3,
-        "ast": 1,
-        "stl": 0.33333334,
-        "blk": 0.33333334,
-        "tpm": 0.16666667,
-        "to": 0.5,
-        "fgm": 1,
-        "fga": 3,
-        "ftm": 0.5,
-        "fta": 0.6666667
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
       "playerId": "5060701",
       "name": "Christian Anderson",
       "team": "CHA",
@@ -5350,6 +5350,33 @@
         "fga": 3.625,
         "ftm": 0.125,
         "fta": 0.125
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
+      "playerId": "4433149",
+      "name": "LJ Cryer",
+      "team": "GS",
+      "positions": [
+        "G"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 7,
+        "minutes": 4.285714,
+        "pts": 2.5714285,
+        "reb": 0.2857143,
+        "ast": 1,
+        "stl": 0,
+        "blk": 0,
+        "tpm": 0.71428573,
+        "to": 0.14285715,
+        "fgm": 0.85714287,
+        "fga": 2.2857144,
+        "ftm": 0.14285715,
+        "fta": 0.2857143
       },
       "last14": null,
       "last7": null,
@@ -5410,6 +5437,33 @@
       "gamesRemainingThisWeek": null
     },
     {
+      "playerId": "4997528",
+      "name": "Nikola Jovic",
+      "team": "MIA",
+      "positions": [
+        "F"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 7,
+        "minutes": 12.142858,
+        "pts": 2.4285715,
+        "reb": 2.5714285,
+        "ast": 1,
+        "stl": 0.2857143,
+        "blk": 0.42857143,
+        "tpm": 0.14285715,
+        "to": 0.42857143,
+        "fgm": 0.85714287,
+        "fga": 2.857143,
+        "ftm": 0.5714286,
+        "fta": 0.85714287
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
       "playerId": "5061568",
       "name": "Carter Bryant",
       "team": "SA",
@@ -5431,33 +5485,6 @@
         "fga": 2.7142856,
         "ftm": 0.14285715,
         "fta": 0.2857143
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
-      "playerId": "5107157",
-      "name": "Ryan Conwell",
-      "team": "MIA",
-      "positions": [
-        "G"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 6,
-        "minutes": 7,
-        "pts": 2.3333333,
-        "reb": 0.6666667,
-        "ast": 0.8333333,
-        "stl": 0.33333334,
-        "blk": 0,
-        "tpm": 0.5,
-        "to": 0.16666667,
-        "fgm": 0.8333333,
-        "fga": 2.3333333,
-        "ftm": 0.16666667,
-        "fta": 0.33333334
       },
       "last14": null,
       "last7": null,
@@ -5497,7 +5524,7 @@
       "positions": [
         "C"
       ],
-      "status": "Questionable",
+      "status": "Out",
       "season": {
         "games": 9,
         "minutes": 14.222222,
@@ -5734,6 +5761,33 @@
       "gamesRemainingThisWeek": null
     },
     {
+      "playerId": "4712849",
+      "name": "Anthony Black",
+      "team": "ORL",
+      "positions": [
+        "G"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 5,
+        "minutes": 28.6,
+        "pts": 15.2,
+        "reb": 5.2,
+        "ast": 5,
+        "stl": 1.2,
+        "blk": 0.4,
+        "tpm": 2,
+        "to": 2.8,
+        "fgm": 4.8,
+        "fga": 9.6,
+        "ftm": 3.6,
+        "fta": 4.6
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
       "playerId": "4278355",
       "name": "Obi Toppin",
       "team": "IND",
@@ -5950,33 +6004,6 @@
       "gamesRemainingThisWeek": null
     },
     {
-      "playerId": "4601023",
-      "name": "Oso Ighodaro",
-      "team": "PHX",
-      "positions": [
-        "F"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 4,
-        "minutes": 20.75,
-        "pts": 8.25,
-        "reb": 5.25,
-        "ast": 4.25,
-        "stl": 0,
-        "blk": 1,
-        "tpm": 0,
-        "to": 2,
-        "fgm": 3.75,
-        "fga": 5.5,
-        "ftm": 0.75,
-        "fta": 1.75
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
       "playerId": "4683747",
       "name": "Jaylon Tyson",
       "team": "CLE",
@@ -5998,6 +6025,33 @@
         "fga": 7.8,
         "ftm": 0.4,
         "fta": 0.8
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
+      "playerId": "4997536",
+      "name": "Gui Santos",
+      "team": "GS",
+      "positions": [
+        "F"
+      ],
+      "status": "Questionable",
+      "season": {
+        "games": 6,
+        "minutes": 20.166666,
+        "pts": 7.1666665,
+        "reb": 4,
+        "ast": 1.3333334,
+        "stl": 0.5,
+        "blk": 0.33333334,
+        "tpm": 0.6666667,
+        "to": 0.6666667,
+        "fgm": 2.5,
+        "fga": 5.1666665,
+        "ftm": 1.5,
+        "fta": 2.3333333
       },
       "last14": null,
       "last7": null,
@@ -6112,40 +6166,13 @@
       "gamesRemainingThisWeek": null
     },
     {
-      "playerId": "4066268",
-      "name": "Duop Reath",
-      "team": "PHX",
-      "positions": [
-        "C"
-      ],
-      "status": "Healthy",
-      "season": {
-        "games": 4,
-        "minutes": 6.25,
-        "pts": 4.25,
-        "reb": 1,
-        "ast": 0,
-        "stl": 0,
-        "blk": 0.25,
-        "tpm": 0.75,
-        "to": 0.5,
-        "fgm": 1.5,
-        "fga": 2.25,
-        "ftm": 0.5,
-        "fta": 0.5
-      },
-      "last14": null,
-      "last7": null,
-      "gamesRemainingThisWeek": null
-    },
-    {
       "playerId": "3102529",
       "name": "Clint Capela",
       "team": "HOU",
       "positions": [
         "C"
       ],
-      "status": "Questionable",
+      "status": "Out",
       "season": {
         "games": 6,
         "minutes": 14.166667,
@@ -6174,19 +6201,19 @@
       ],
       "status": "Healthy",
       "season": {
-        "games": 5,
-        "minutes": 9.8,
-        "pts": 3,
-        "reb": 1.2,
-        "ast": 1.6,
-        "stl": 0.6,
+        "games": 6,
+        "minutes": 8.333333,
+        "pts": 2.5,
+        "reb": 1,
+        "ast": 1.3333334,
+        "stl": 0.5,
         "blk": 0,
-        "tpm": 0.6,
-        "to": 1,
-        "fgm": 0.8,
-        "fga": 1.6,
-        "ftm": 0.8,
-        "fta": 1.2
+        "tpm": 0.5,
+        "to": 0.8333333,
+        "fgm": 0.6666667,
+        "fga": 1.5,
+        "ftm": 0.6666667,
+        "fta": 1
       },
       "last14": null,
       "last7": null,
@@ -6430,6 +6457,33 @@
         "fga": 1.6666666,
         "ftm": 0.8333333,
         "fta": 1
+      },
+      "last14": null,
+      "last7": null,
+      "gamesRemainingThisWeek": null
+    },
+    {
+      "playerId": "4593034",
+      "name": "Alex Morales",
+      "team": "ORL",
+      "positions": [
+        "G"
+      ],
+      "status": "Healthy",
+      "season": {
+        "games": 5,
+        "minutes": 7.8,
+        "pts": 1,
+        "reb": 1.2,
+        "ast": 0.2,
+        "stl": 0.6,
+        "blk": 0,
+        "tpm": 0,
+        "to": 0.6,
+        "fgm": 0.4,
+        "fga": 1,
+        "ftm": 0.2,
+        "fta": 0.4
       },
       "last14": null,
       "last7": null,

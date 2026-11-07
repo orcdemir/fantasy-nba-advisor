@@ -1,6 +1,6 @@
 {
-  "analyzedAt": "2026-11-06T09:37:56.2858277+00:00",
-  "dataCollectedAt": "2026-11-06T09:37:52.8904492+00:00",
+  "analyzedAt": "2026-11-07T09:02:26.3885345+00:00",
+  "dataCollectedAt": "2026-11-07T09:02:21.9399425+00:00",
   "status": "ok",
   "message": null,
   "swaps": [
@@ -59,43 +59,43 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 9.748388432968312,
+      "totalDelta": 9.70108973659484,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 1.3336310889703389
+          "delta": 1.3257692001524903
         },
         {
           "category": "Reb",
-          "delta": -1.251908474830208
+          "delta": -1.2449535689860687
         },
         {
           "category": "Ast",
-          "delta": 0.17466589201312283
+          "delta": 0.173338357799533
         },
         {
           "category": "Stl",
-          "delta": 2.8148052410679454
+          "delta": 2.801444247610737
         },
         {
           "category": "Blk",
-          "delta": -0.8898077880422048
+          "delta": -0.8931992621887298
         },
         {
           "category": "Tpm",
-          "delta": 3.7308790520345694
+          "delta": 3.733898602365368
         },
         {
           "category": "Fg",
-          "delta": 1.2635488623614053
+          "delta": 1.2539351807083619
         },
         {
           "category": "Ft",
-          "delta": 0.2871872969700331
+          "delta": 0.2828177897039037
         },
         {
           "category": "To",
-          "delta": 2.2853872624233094
+          "delta": 2.2680391894292433
         }
       ],
       "risks": [
@@ -157,43 +157,43 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 8.692794096393634,
+      "totalDelta": 8.681318969033253,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 2.7761300219382563
+          "delta": 2.759764457460286
         },
         {
           "category": "Reb",
-          "delta": -0.3666304105950453
+          "delta": -0.36459361634326704
         },
         {
           "category": "Ast",
-          "delta": 3.3935088589211815
+          "delta": 3.3677167648699893
         },
         {
           "category": "Stl",
-          "delta": -0.32900317782575195
+          "delta": -0.3274415034185156
         },
         {
           "category": "Blk",
-          "delta": -0.5508333756488356
+          "delta": -0.552932859579704
         },
         {
           "category": "Tpm",
-          "delta": 1.7055447947787528
+          "delta": 1.7069251607132792
         },
         {
           "category": "Fg",
-          "delta": 1.8696977089553837
+          "delta": 1.8519333014336357
         },
         {
           "category": "Ft",
-          "delta": 2.2035114355995136
+          "delta": 2.233827969683221
         },
         {
           "category": "To",
-          "delta": -2.0091317597298217
+          "delta": -1.9938807057856724
         }
       ],
       "risks": [
@@ -255,43 +255,43 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 8.387813367645485,
+      "totalDelta": 8.351738038728387,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 1.8118718506821665
+          "delta": 1.8011906846835162
         },
         {
           "category": "Reb",
-          "delta": 0.4918212580780661
+          "delta": 0.4890889732418739
         },
         {
           "category": "Ast",
-          "delta": 0.19961824214797663
+          "delta": 0.19810105958271546
         },
         {
           "category": "Stl",
-          "delta": 2.595469475290677
+          "delta": 2.583149599594913
         },
         {
           "category": "Blk",
-          "delta": -0.5508333756488356
+          "delta": -0.552932859579704
         },
         {
           "category": "Tpm",
-          "delta": 1.1938812966510624
+          "delta": 1.1948475527569178
         },
         {
           "category": "Fg",
-          "delta": 3.4135493845020886
+          "delta": 3.391679060929966
         },
         {
           "category": "Ft",
-          "delta": 0.03608779919499672
+          "delta": 0.04416611026081452
         },
         {
           "category": "To",
-          "delta": -0.8036525632527125
+          "delta": -0.7975521427426265
         }
       ],
       "risks": [
@@ -353,43 +353,43 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 8.312198199682589,
+      "totalDelta": 8.28179234225886,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 0.4899052979891041
+          "delta": 0.487017257198874
         },
         {
           "category": "Reb",
-          "delta": 0.625954237415104
+          "delta": 0.6224767844930343
         },
         {
           "category": "Ast",
-          "delta": 1.7466589201312284
+          "delta": 1.7333835779953302
         },
         {
           "category": "Stl",
-          "delta": 3.8383707832744713
+          "delta": 3.820151246741914
         },
         {
           "category": "Blk",
-          "delta": 0.5932051920281366
+          "delta": 0.5954661747924865
         },
         {
           "category": "Tpm",
-          "delta": -0.1492351620813828
+          "delta": -0.14935594409461472
         },
         {
           "category": "Fg",
-          "delta": 2.1268037669943274
+          "delta": 2.116502953743389
         },
         {
           "category": "Ft",
-          "delta": 0.09532928505004978
+          "delta": 0.1029376095865594
         },
         {
           "category": "To",
-          "delta": -1.0547941211184504
+          "delta": -1.0467873181981122
         }
       ],
       "risks": [
@@ -451,43 +451,43 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 8.304119680706817,
+      "totalDelta": 8.261518164563315,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 2.1955016657749624
+          "delta": 2.1825589636000675
         },
         {
           "category": "Reb",
-          "delta": 1.231043417043603
+          "delta": 1.2242044258332059
         },
         {
           "category": "Ast",
-          "delta": 1.630215108566408
+          "delta": 1.6178247883545467
         },
         {
           "category": "Stl",
-          "delta": 0.9382685501647203
+          "delta": 0.9338148850311787
         },
         {
           "category": "Blk",
-          "delta": 0.1647792331901533
+          "delta": 0.16540728400827234
         },
         {
           "category": "Tpm",
-          "delta": 0.5306138565613034
+          "delta": 0.5310433036765168
         },
         {
           "category": "Fg",
-          "delta": 3.076732623155089
+          "delta": 3.0529442599769148
         },
         {
           "category": "Ft",
-          "delta": -0.21290853299204343
+          "delta": -0.2056430484129354
         },
         {
           "category": "To",
-          "delta": -1.2501262407573785
+          "delta": -1.240636697504451
         }
       ],
       "risks": [
