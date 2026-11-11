@@ -1,6 +1,6 @@
 {
-  "analyzedAt": "2026-11-10T10:13:16.2003441+00:00",
-  "dataCollectedAt": "2026-11-10T10:13:12.6373241+00:00",
+  "analyzedAt": "2026-11-11T09:42:34.1863973+00:00",
+  "dataCollectedAt": "2026-11-11T09:42:30.8736693+00:00",
   "status": "ok",
   "message": null,
   "swaps": [
@@ -49,7 +49,7 @@
           "stl": 0.7777778,
           "blk": 0.5555556,
           "tpm": 1,
-          "to": 0.8888889,
+          "to": 0.7777778,
           "fgm": 2.5555556,
           "fga": 7.7777777,
           "ftm": 0.44444445,
@@ -59,43 +59,43 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 9.300211828986013,
+      "totalDelta": 9.17573929241093,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 2.522464825968652
+          "delta": 2.545197782301755
         },
         {
           "category": "Reb",
-          "delta": 0.8638036762547221
+          "delta": 0.8671740738257974
         },
         {
           "category": "Ast",
-          "delta": 1.2367640457740894
+          "delta": 1.2373192414647838
         },
         {
           "category": "Stl",
-          "delta": 1.0663225071774205
+          "delta": 1.0877272442157722
         },
         {
           "category": "Blk",
-          "delta": -0.25058806866056427
+          "delta": -0.25230211057002944
         },
         {
           "category": "Tpm",
-          "delta": 1.0768257368141192
+          "delta": 1.075324025744849
         },
         {
           "category": "Fg",
-          "delta": 3.6121373242506367
+          "delta": 3.6256013881804563
         },
         {
           "category": "Ft",
-          "delta": 1.147284711960743
+          "delta": 1.1328346952030017
         },
         {
           "category": "To",
-          "delta": -1.9748029305538066
+          "delta": -2.143137047955456
         }
       ],
       "risks": []
@@ -145,7 +145,7 @@
           "stl": 0.7777778,
           "blk": 0.5555556,
           "tpm": 1,
-          "to": 0.8888889,
+          "to": 0.7777778,
           "fgm": 2.5555556,
           "fga": 7.7777777,
           "ftm": 0.44444445,
@@ -155,23 +155,23 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 8.45365711904104,
+      "totalDelta": 8.361981135481983,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 0.5588297483434728
+          "delta": 0.5638660335419601
         },
         {
           "category": "Reb",
-          "delta": 0.5120752292426329
+          "delta": 0.5140732493440643
         },
         {
           "category": "Ast",
-          "delta": 1.5459552485295587
+          "delta": 1.5466492432288081
         },
         {
           "category": "Stl",
-          "delta": 3.8300563611042326
+          "delta": 3.906938682071562
         },
         {
           "category": "Blk",
@@ -183,15 +183,15 @@
         },
         {
           "category": "Fg",
-          "delta": 2.549363613159976
+          "delta": 2.545507874633728
         },
         {
           "category": "Ft",
-          "delta": 0.5673025293967846
+          "delta": 0.55924362511676
         },
         {
           "category": "To",
-          "delta": -1.1099256107356172
+          "delta": -1.274297572454901
         }
       ],
       "risks": [
@@ -243,7 +243,7 @@
           "stl": 0.7777778,
           "blk": 0.5555556,
           "tpm": 1,
-          "to": 0.8888889,
+          "to": 0.7777778,
           "fgm": 2.5555556,
           "fga": 7.7777777,
           "ftm": 0.44444445,
@@ -253,43 +253,43 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 8.37252453449328,
+      "totalDelta": 8.267329481022887,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 1.9923495537351312
+          "delta": 2.010305005458009
         },
         {
           "category": "Reb",
-          "delta": 1.251739324085824
+          "delta": 1.2566233727342513
         },
         {
           "category": "Ast",
-          "delta": 2.048390370375358
+          "delta": 2.049309913201961
         },
         {
           "category": "Stl",
-          "delta": 1.915027965111449
+          "delta": 1.953469121270483
         },
         {
           "category": "Blk",
-          "delta": 0.6891167980872175
+          "delta": 0.6938304106656277
         },
         {
           "category": "Tpm",
-          "delta": 1.184508322340614
+          "delta": 1.1828564401478985
         },
         {
           "category": "Fg",
-          "delta": 2.0850588378043997
+          "delta": 2.0933754059503356
         },
         {
           "category": "Ft",
-          "delta": -0.2566935270986887
+          "delta": -0.2645575602220312
         },
         {
           "category": "To",
-          "delta": -2.5369731099480246
+          "delta": -2.707882628183646
         }
       ],
       "risks": [
@@ -298,27 +298,27 @@
     },
     {
       "add": {
-        "playerId": "2991230",
-        "name": "Fred VanVleet",
-        "team": "HOU",
+        "playerId": "4709138",
+        "name": "Brandin Podziemski",
+        "team": "GS",
         "positions": [
           "G"
         ],
         "status": "Healthy",
         "season": {
-          "games": 8,
-          "minutes": 30,
-          "pts": 13.375,
-          "reb": 3.375,
-          "ast": 6,
-          "stl": 1.25,
-          "blk": 0.25,
-          "tpm": 2.75,
-          "to": 1.375,
-          "fgm": 4.5,
-          "fga": 11.125,
-          "ftm": 1.625,
-          "fta": 1.875
+          "games": 9,
+          "minutes": 33,
+          "pts": 16.777779,
+          "reb": 5,
+          "ast": 4.2222223,
+          "stl": 1.2222222,
+          "blk": 0.5555556,
+          "tpm": 2.7777777,
+          "to": 1.3333334,
+          "fgm": 6.111111,
+          "fga": 12.666667,
+          "ftm": 1.7777778,
+          "fta": 2.6666667
         },
         "last14": null,
         "last7": null,
@@ -341,7 +341,7 @@
           "stl": 0.7777778,
           "blk": 0.5555556,
           "tpm": 1,
-          "to": 0.8888889,
+          "to": 0.7777778,
           "fgm": 2.5555556,
           "fga": 7.7777777,
           "ftm": 0.44444445,
@@ -351,47 +351,47 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 7.098578033596676,
+      "totalDelta": 7.906166059775682,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 1.4912250065781112
+          "delta": 2.2554643327467367
         },
         {
           "category": "Reb",
-          "delta": 0.07823367575066223
+          "delta": 0.9139079588504168
         },
         {
           "category": "Ast",
-          "delta": 2.6281236581419227
+          "delta": 1.391984207547191
         },
         {
           "category": "Stl",
-          "delta": 1.017358660325624
+          "delta": 0.9767345606352417
         },
         {
           "category": "Blk",
-          "delta": -0.7580288004026912
+          "delta": 0
         },
         {
           "category": "Tpm",
-          "delta": 2.0728895640960747
+          "delta": 2.1028558015963186
         },
         {
           "category": "Fg",
-          "delta": 0.8334866082907553
+          "delta": 2.6117830292287016
         },
         {
           "category": "Ft",
-          "delta": 0.42899322104025384
+          "delta": -1.55012770468612
         },
         {
           "category": "To",
-          "delta": -0.6937035602240366
+          "delta": -0.7964361261428041
         }
       ],
       "risks": [
-        "K\u00FC\u00E7\u00FCk \u00F6rneklem (8 ma\u00E7)."
+        "K\u00FC\u00E7\u00FCk \u00F6rneklem (9 ma\u00E7)."
       ]
     },
     {
@@ -404,19 +404,19 @@
         ],
         "status": "Healthy",
         "season": {
-          "games": 8,
-          "minutes": 33.125,
-          "pts": 17.75,
-          "reb": 2,
-          "ast": 7,
-          "stl": 0.625,
-          "blk": 0.125,
-          "tpm": 2.5,
-          "to": 2.25,
-          "fgm": 5.875,
-          "fga": 13,
-          "ftm": 3.5,
-          "fta": 4
+          "games": 9,
+          "minutes": 33.22222,
+          "pts": 17.11111,
+          "reb": 2.1111112,
+          "ast": 7.5555553,
+          "stl": 0.5555556,
+          "blk": 0.22222222,
+          "tpm": 2.3333333,
+          "to": 2.3333333,
+          "fgm": 5.7777777,
+          "fga": 12.666667,
+          "ftm": 3.2222223,
+          "fta": 3.6666667
         },
         "last14": null,
         "last7": null,
@@ -439,7 +439,7 @@
           "stl": 0.7777778,
           "blk": 0.5555556,
           "tpm": 1,
-          "to": 0.8888889,
+          "to": 0.7777778,
           "fgm": 2.5555556,
           "fga": 7.7777777,
           "ftm": 0.44444445,
@@ -449,47 +449,47 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 7.040678050734597,
+      "totalDelta": 6.937323482637942,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 2.447917184722651
+          "delta": 2.329011557260989
         },
         {
           "category": "Reb",
-          "delta": -0.6258697644579578
+          "delta": -0.5711924935592574
         },
         {
           "category": "Ast",
-          "delta": 3.32380346432584
+          "delta": 3.7119576547951407
         },
         {
           "category": "Stl",
-          "delta": -0.32914551229378053
+          "delta": -0.4883672803176206
         },
         {
           "category": "Blk",
-          "delta": -1.06813144637068
+          "delta": -0.8325968424893782
         },
         {
           "category": "Tpm",
-          "delta": 1.7767624835109213
+          "delta": 1.57714188076865
         },
         {
           "category": "Fg",
-          "delta": 1.8525033266578639
+          "delta": 1.9678615894067888
         },
         {
           "category": "Ft",
-          "delta": 1.605208311807988
+          "delta": 1.4735283119271996
         },
         {
           "category": "To",
-          "delta": -1.9423699971682495
+          "delta": -2.230020895154568
         }
       ],
       "risks": [
-        "K\u00FC\u00E7\u00FCk \u00F6rneklem (8 ma\u00E7)."
+        "K\u00FC\u00E7\u00FCk \u00F6rneklem (9 ma\u00E7)."
       ]
     }
   ]
