@@ -1,6 +1,6 @@
 {
-  "analyzedAt": "2026-11-13T09:50:55.0400729+00:00",
-  "dataCollectedAt": "2026-11-13T09:50:51.7981775+00:00",
+  "analyzedAt": "2026-11-14T09:14:44.0426008+00:00",
+  "dataCollectedAt": "2026-11-14T09:14:40.542241+00:00",
   "status": "ok",
   "message": null,
   "swaps": [
@@ -59,43 +59,43 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 10.257411462102118,
+      "totalDelta": 10.231275335762184,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 2.6263561684633077
+          "delta": 2.600464595830985
         },
         {
           "category": "Reb",
-          "delta": 1.4972090847308994
+          "delta": 1.4996839290908066
         },
         {
           "category": "Ast",
-          "delta": 2.4066747454935267
+          "delta": 2.4014832853044603
         },
         {
           "category": "Stl",
-          "delta": 2.1805779887631553
+          "delta": 2.1875952898473257
         },
         {
           "category": "Blk",
-          "delta": 0.20462070786616615
+          "delta": 0.2034852679179262
         },
         {
           "category": "Tpm",
-          "delta": 1.522039601290238
+          "delta": 1.5256104838005424
         },
         {
           "category": "Fg",
-          "delta": 2.4418990874350457
+          "delta": 2.4691705435622806
         },
         {
           "category": "Ft",
-          "delta": 0.3696429874401995
+          "delta": 0.37593864452649756
         },
         {
           "category": "To",
-          "delta": -2.9916089093804197
+          "delta": -3.03215670411864
         }
       ],
       "risks": [
@@ -112,19 +112,19 @@
         ],
         "status": "Healthy",
         "season": {
-          "games": 11,
-          "minutes": 31.363636,
-          "pts": 18.09091,
-          "reb": 4.909091,
-          "ast": 4,
-          "stl": 1.2727273,
-          "blk": 0.45454547,
-          "tpm": 1.9090909,
-          "to": 2.2727273,
-          "fgm": 6.909091,
-          "fga": 13.272727,
-          "ftm": 2.3636363,
-          "fta": 2.6363637
+          "games": 12,
+          "minutes": 31,
+          "pts": 18.083334,
+          "reb": 4.6666665,
+          "ast": 3.75,
+          "stl": 1.25,
+          "blk": 0.5,
+          "tpm": 1.9166666,
+          "to": 2.1666667,
+          "fgm": 7,
+          "fga": 13.416667,
+          "ftm": 2.1666667,
+          "fta": 2.4166667
         },
         "last14": null,
         "last7": null,
@@ -157,43 +157,43 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 9.545814546768842,
+      "totalDelta": 9.367108833063936,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 2.7019712315797313
+          "delta": 2.673670400012634
         },
         {
           "category": "Reb",
-          "delta": 0.9176443222962329
+          "delta": 0.7901559553921627
         },
         {
           "category": "Ast",
-          "delta": 1.347737885714691
+          "delta": 1.1687218983884744
         },
         {
           "category": "Stl",
-          "delta": 0.8209234961829163
+          "delta": 0.7720924099441404
         },
         {
           "category": "Blk",
-          "delta": -0.23385227798436986
+          "delta": -0.1162773544239804
         },
         {
           "category": "Tpm",
-          "delta": 1.2705721818137308
+          "delta": 1.2823971438227155
         },
         {
           "category": "Fg",
-          "delta": 3.5857010271089513
+          "delta": 3.6751474097946266
         },
         {
           "category": "Ft",
-          "delta": 1.2507296578588813
+          "delta": 1.109134337281388
         },
         {
           "category": "To",
-          "delta": -2.115612977801926
+          "delta": -1.9879333671482262
         }
       ],
       "risks": []
@@ -253,139 +253,139 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 8.67995305604001,
+      "totalDelta": 8.697057738958273,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 2.526544551313941
+          "delta": 2.5016369578410353
         },
         {
           "category": "Reb",
-          "delta": 1.0190681158772188
+          "delta": 1.0207526067106372
         },
         {
           "category": "Ast",
-          "delta": 1.488929467018536
+          "delta": 1.4857176835954427
         },
         {
           "category": "Stl",
-          "delta": 0.8824926974430652
+          "delta": 0.8853326403363952
         },
         {
           "category": "Blk",
-          "delta": -0.11692617757781121
+          "delta": -0.1162773544239804
         },
         {
           "category": "Tpm",
-          "delta": 2.424675247931779
+          "delta": 2.4303638189969914
         },
         {
           "category": "Fg",
-          "delta": 2.504401950751788
+          "delta": 2.5335175270485935
         },
         {
           "category": "Ft",
-          "delta": -1.3484359932763557
+          "delta": -1.3336908484970702
         },
         {
           "category": "To",
-          "delta": -0.7007968034421503
+          "delta": -0.7102952926497714
         }
       ],
       "risks": []
     },
     {
       "add": {
-        "playerId": "3157465",
-        "name": "Duncan Robinson",
-        "team": "DET",
+        "playerId": "5124612",
+        "name": "VJ Edgecombe",
+        "team": "PHI",
         "positions": [
-          "F"
+          "G"
         ],
         "status": "Healthy",
         "season": {
-          "games": 10,
-          "minutes": 30.8,
-          "pts": 18.6,
-          "reb": 1.8,
-          "ast": 2.3,
-          "stl": 1.5,
-          "blk": 0.2,
-          "tpm": 4.2,
+          "games": 12,
+          "minutes": 33.666668,
+          "pts": 12.916667,
+          "reb": 6.4166665,
+          "ast": 3.5,
+          "stl": 1.6666666,
+          "blk": 0.5,
+          "tpm": 1.6666666,
           "to": 1,
-          "fgm": 5.5,
-          "fga": 11.8,
-          "ftm": 3.4,
-          "fta": 4.1
+          "fgm": 5.25,
+          "fga": 11.333333,
+          "ftm": 0.75,
+          "fta": 1.0833334
         },
         "last14": null,
         "last7": null,
         "gamesRemainingThisWeek": null
       },
       "drop": {
-        "playerId": "4711294",
-        "name": "Matas Buzelis",
-        "team": "CHI",
+        "playerId": "3147657",
+        "name": "Mikal Bridges",
+        "team": "NY",
         "positions": [
-          "F"
+          "G"
         ],
         "status": "Healthy",
         "season": {
-          "games": 10,
-          "minutes": 26.3,
-          "pts": 13.5,
-          "reb": 4.3,
-          "ast": 2,
-          "stl": 0.4,
-          "blk": 0.6,
-          "tpm": 1.6,
-          "to": 2.8,
-          "fgm": 4.2,
-          "fga": 9.8,
-          "ftm": 3.5,
-          "fta": 4.2
+          "games": 11,
+          "minutes": 24.363636,
+          "pts": 5.909091,
+          "reb": 3.1818182,
+          "ast": 2.090909,
+          "stl": 0.90909094,
+          "blk": 0.54545456,
+          "tpm": 0.8181818,
+          "to": 0.8181818,
+          "fgm": 2.3636363,
+          "fga": 7.181818,
+          "ftm": 0.36363637,
+          "fta": 0.36363637
         },
         "last14": null,
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 7.797427058352243,
+      "totalDelta": 7.882868920489572,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 1.131198327692821
+          "delta": 1.5389826313668076
         },
         {
           "category": "Reb",
-          "delta": -1.3281693579268903
+          "delta": 1.7214113044647141
         },
         {
           "category": "Ast",
-          "delta": 0.21178737195576694
+          "delta": 0.9926131288290477
         },
         {
           "category": "Stl",
-          "delta": 2.4832936007862587
+          "delta": 1.71576084555929
         },
         {
           "category": "Blk",
-          "delta": -1.0289500334207276
+          "delta": -0.1162773544239804
         },
         {
           "category": "Tpm",
-          "delta": 3.0281970080877496
+          "delta": 0.9905412292432159
         },
         {
           "category": "Fg",
-          "delta": 0.7923183963340628
+          "delta": 2.0428919976862834
         },
         {
           "category": "Ft",
-          "delta": -0.11031923337196359
+          "delta": -0.7350188860562961
         },
         {
           "category": "To",
-          "delta": 2.618070978215165
+          "delta": -0.2680359761795106
         }
       ],
       "risks": []
@@ -445,43 +445,43 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 7.722934805031202,
+      "totalDelta": 7.725375939606111,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 1.7280516141190088
+          "delta": 1.7110158539214333
         },
         {
           "category": "Reb",
-          "delta": -0.09659414478136916
+          "delta": -0.09675381217642454
         },
         {
           "category": "Ast",
-          "delta": 2.477270536145449
+          "delta": 2.471926793128231
         },
         {
           "category": "Stl",
-          "delta": 0.8824926974430652
+          "delta": 0.8853326403363952
         },
         {
           "category": "Blk",
-          "delta": -0.8886387026433569
+          "delta": -0.8837076480445563
         },
         {
           "category": "Tpm",
-          "delta": 2.424675247931779
+          "delta": 2.4303638189969914
         },
         {
           "category": "Fg",
-          "delta": 1.2928506416190795
+          "delta": 1.3091284293819956
         },
         {
           "category": "Ft",
-          "delta": 0.31272694328245676
+          "delta": 0.3135256123983086
         },
         {
           "category": "To",
-          "delta": -0.4099000280849097
+          "delta": -0.4154557483362643
         }
       ],
       "risks": []
