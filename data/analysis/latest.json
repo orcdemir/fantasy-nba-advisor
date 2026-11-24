@@ -1,32 +1,32 @@
 {
-  "analyzedAt": "2026-11-23T11:00:06.5798243+00:00",
-  "dataCollectedAt": "2026-11-23T11:00:03.0489285+00:00",
+  "analyzedAt": "2026-11-24T12:48:16.0425879+00:00",
+  "dataCollectedAt": "2026-11-24T12:48:12.4229037+00:00",
   "status": "ok",
   "message": null,
   "swaps": [
     {
       "add": {
-        "playerId": "5124612",
-        "name": "VJ Edgecombe",
-        "team": "PHI",
+        "playerId": "4431767",
+        "name": "Christian Braun",
+        "team": "DEN",
         "positions": [
           "G"
         ],
         "status": "Healthy",
         "season": {
-          "games": 16,
-          "minutes": 34.3125,
-          "pts": 13.75,
-          "reb": 6.3125,
-          "ast": 4,
-          "stl": 1.6875,
-          "blk": 0.4375,
-          "tpm": 1.625,
-          "to": 1.25,
-          "fgm": 5.3125,
-          "fga": 11.5,
-          "ftm": 1.5,
-          "fta": 1.875
+          "games": 15,
+          "minutes": 33.933334,
+          "pts": 13.733334,
+          "reb": 4.6,
+          "ast": 2.4666667,
+          "stl": 2.2,
+          "blk": 0.33333334,
+          "tpm": 1.7333333,
+          "to": 1.1333333,
+          "fgm": 5.266667,
+          "fga": 10.666667,
+          "ftm": 1.4666667,
+          "fta": 1.8
         },
         "last14": null,
         "last7": null,
@@ -41,61 +41,61 @@
         ],
         "status": "Healthy",
         "season": {
-          "games": 16,
-          "minutes": 26.0625,
-          "pts": 7.8125,
-          "reb": 3.4375,
-          "ast": 2.25,
-          "stl": 1.0625,
-          "blk": 0.5,
-          "tpm": 1.0625,
-          "to": 1.25,
-          "fgm": 3.1875,
-          "fga": 7.625,
-          "ftm": 0.375,
-          "fta": 0.5
+          "games": 17,
+          "minutes": 26.411764,
+          "pts": 7.8235292,
+          "reb": 3.4117646,
+          "ast": 2.1764705,
+          "stl": 1.0588236,
+          "blk": 0.47058824,
+          "tpm": 1.117647,
+          "to": 1.2941177,
+          "fgm": 3.1764705,
+          "fga": 7.882353,
+          "ftm": 0.3529412,
+          "fta": 0.47058824
         },
         "last14": null,
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 7.33040800533327,
+      "totalDelta": 7.884736822974859,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 1.3325210351007006
+          "delta": 1.3402051442112135
         },
         {
           "category": "Reb",
-          "delta": 1.5597408527775392
+          "delta": 0.6493081239048061
         },
         {
           "category": "Ast",
-          "delta": 1.261959434523441
+          "delta": 0.2085172150680257
         },
         {
           "category": "Stl",
-          "delta": 1.504691406890468
+          "delta": 2.7792440378079033
         },
         {
           "category": "Blk",
-          "delta": -0.16778079396873152
+          "delta": -0.36710251566062924
         },
         {
           "category": "Tpm",
-          "delta": 0.681667534827118
+          "delta": 0.7480780946221717
         },
         {
           "category": "Fg",
-          "delta": 0.7815802536687212
+          "delta": 1.7750482944966546
         },
         {
           "category": "Ft",
-          "delta": 0.3760282815140129
+          "delta": 0.5031259289356121
         },
         {
           "category": "To",
-          "delta": 0
+          "delta": 0.24831249958910095
         }
       ],
       "risks": []
@@ -110,19 +110,19 @@
         ],
         "status": "Healthy",
         "season": {
-          "games": 17,
-          "minutes": 31.764706,
-          "pts": 17.882353,
-          "reb": 4.4117646,
-          "ast": 3.4117646,
-          "stl": 1.3529412,
-          "blk": 0.3529412,
-          "tpm": 2.0588236,
-          "to": 2.4117646,
-          "fgm": 7,
-          "fga": 13.529411,
-          "ftm": 1.8235294,
-          "fta": 2.0588236
+          "games": 18,
+          "minutes": 31.666666,
+          "pts": 18.166666,
+          "reb": 4.3333335,
+          "ast": 3.5,
+          "stl": 1.2777778,
+          "blk": 0.33333334,
+          "tpm": 2.1666667,
+          "to": 2.3888888,
+          "fgm": 7.0555553,
+          "fga": 13.5,
+          "ftm": 1.8888888,
+          "fta": 2.1111112
         },
         "last14": null,
         "last7": null,
@@ -137,88 +137,88 @@
         ],
         "status": "Healthy",
         "season": {
-          "games": 16,
-          "minutes": 26.0625,
-          "pts": 7.8125,
-          "reb": 3.4375,
-          "ast": 2.25,
-          "stl": 1.0625,
-          "blk": 0.5,
-          "tpm": 1.0625,
-          "to": 1.25,
-          "fgm": 3.1875,
-          "fga": 7.625,
-          "ftm": 0.375,
-          "fta": 0.5
+          "games": 17,
+          "minutes": 26.411764,
+          "pts": 7.8235292,
+          "reb": 3.4117646,
+          "ast": 2.1764705,
+          "stl": 1.0588236,
+          "blk": 0.47058824,
+          "tpm": 1.117647,
+          "to": 1.2941177,
+          "fgm": 3.1764705,
+          "fga": 7.882353,
+          "ftm": 0.3529412,
+          "fta": 0.47058824
         },
         "last14": null,
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 7.0281678501478355,
+      "totalDelta": 7.816450760398609,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 2.2599226851152663
+          "delta": 2.3455808805462257
         },
         {
           "category": "Reb",
-          "delta": 0.528556625403467
+          "delta": 0.5035889130285263
         },
         {
           "category": "Ast",
-          "delta": 0.8377713129516295
+          "delta": 0.9510072337279967
         },
         {
           "category": "Stl",
-          "delta": 0.6992390045551293
+          "delta": 0.5332454780023482
         },
         {
           "category": "Blk",
-          "delta": -0.3947782755854222
+          "delta": -0.36710251566062924
         },
         {
           "category": "Tpm",
-          "delta": 1.2073981374259193
+          "delta": 1.2745917172383436
         },
         {
           "category": "Fg",
-          "delta": 2.4084432820385153
+          "delta": 2.853978739033952
         },
         {
           "category": "Ft",
-          "delta": 1.237383791352794
+          "delta": 1.4123048663096944
         },
         {
           "category": "To",
-          "delta": -1.7557687131094635
+          "delta": -1.6907445518278508
         }
       ],
       "risks": []
     },
     {
       "add": {
-        "playerId": "4431767",
-        "name": "Christian Braun",
-        "team": "DEN",
+        "playerId": "5124612",
+        "name": "VJ Edgecombe",
+        "team": "PHI",
         "positions": [
           "G"
         ],
         "status": "Healthy",
         "season": {
-          "games": 14,
-          "minutes": 33.642857,
-          "pts": 13.214286,
-          "reb": 4.357143,
-          "ast": 2.4285715,
-          "stl": 2.2857144,
-          "blk": 0.35714287,
-          "tpm": 1.6428572,
-          "to": 1.1428572,
-          "fgm": 5.071429,
-          "fga": 10.428572,
-          "ftm": 1.4285715,
-          "fta": 1.7857143
+          "games": 17,
+          "minutes": 34.35294,
+          "pts": 13.6470585,
+          "reb": 6.352941,
+          "ast": 4.1764708,
+          "stl": 1.7058823,
+          "blk": 0.4117647,
+          "tpm": 1.5882353,
+          "to": 1.3529412,
+          "fgm": 5.2941175,
+          "fga": 11.470589,
+          "ftm": 1.4705882,
+          "fta": 1.8235294
         },
         "last14": null,
         "last7": null,
@@ -233,61 +233,157 @@
         ],
         "status": "Healthy",
         "season": {
-          "games": 16,
-          "minutes": 26.0625,
-          "pts": 7.8125,
-          "reb": 3.4375,
-          "ast": 2.25,
-          "stl": 1.0625,
-          "blk": 0.5,
-          "tpm": 1.0625,
-          "to": 1.25,
-          "fgm": 3.1875,
-          "fga": 7.625,
-          "ftm": 0.375,
-          "fta": 0.5
+          "games": 17,
+          "minutes": 26.411764,
+          "pts": 7.8235292,
+          "reb": 3.4117646,
+          "ast": 2.1764705,
+          "stl": 1.0588236,
+          "blk": 0.47058824,
+          "tpm": 1.117647,
+          "to": 1.2941177,
+          "fgm": 3.1764705,
+          "fga": 7.882353,
+          "ftm": 0.3529412,
+          "fta": 0.47058824
         },
         "last14": null,
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 6.925491968789285,
+      "totalDelta": 7.7473625405938105,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 1.2122936374084163
+          "delta": 1.3206398839644802
         },
         {
           "category": "Reb",
-          "delta": 0.49892339376378925
+          "delta": 1.6071981447086094
         },
         {
           "category": "Ast",
-          "delta": 0.12877142237828715
+          "delta": 1.4370777173898754
         },
         {
           "category": "Stl",
-          "delta": 2.9448963143434863
+          "delta": 1.5758598180673324
         },
         {
           "category": "Blk",
-          "delta": -0.3834989231279086
+          "delta": -0.1573296801357449
         },
         {
           "category": "Tpm",
-          "delta": 0.7033078432767441
+          "delta": 0.5717794903272769
         },
         {
           "category": "Fg",
-          "delta": 1.2996574710509068
+          "delta": 1.048292684608474
         },
         {
           "category": "Ft",
-          "delta": 0.359216461101241
+          "delta": 0.4346904239289227
         },
         {
           "category": "To",
-          "delta": 0.16192434859432348
+          "delta": -0.09084594226541581
+        }
+      ],
+      "risks": []
+    },
+    {
+      "add": {
+        "playerId": "4433083",
+        "name": "Cam Spencer",
+        "team": "MEM",
+        "positions": [
+          "G"
+        ],
+        "status": "Healthy",
+        "season": {
+          "games": 18,
+          "minutes": 22.833334,
+          "pts": 11.833333,
+          "reb": 3,
+          "ast": 5.7222223,
+          "stl": 0.7777778,
+          "blk": 0.11111111,
+          "tpm": 2,
+          "to": 1.4444444,
+          "fgm": 3.9444444,
+          "fga": 7.0555553,
+          "ftm": 1.9444444,
+          "fta": 2
+        },
+        "last14": null,
+        "last7": null,
+        "gamesRemainingThisWeek": null
+      },
+      "drop": {
+        "playerId": "3147657",
+        "name": "Mikal Bridges",
+        "team": "NY",
+        "positions": [
+          "G"
+        ],
+        "status": "Healthy",
+        "season": {
+          "games": 17,
+          "minutes": 26.411764,
+          "pts": 7.8235292,
+          "reb": 3.4117646,
+          "ast": 2.1764705,
+          "stl": 1.0588236,
+          "blk": 0.47058824,
+          "tpm": 1.117647,
+          "to": 1.2941177,
+          "fgm": 3.1764705,
+          "fga": 7.882353,
+          "ftm": 0.3529412,
+          "fta": 0.47058824
+        },
+        "last14": null,
+        "last7": null,
+        "gamesRemainingThisWeek": null
+      },
+      "totalDelta": 6.984673236440728,
+      "impacts": [
+        {
+          "category": "Pts",
+          "delta": 0.9093294722759153
+        },
+        {
+          "category": "Reb",
+          "delta": -0.2250076878002567
+        },
+        {
+          "category": "Ast",
+          "delta": 2.5477600694235116
+        },
+        {
+          "category": "Stl",
+          "delta": -0.6844646138852437
+        },
+        {
+          "category": "Blk",
+          "delta": -0.9614589988806449
+        },
+        {
+          "category": "Tpm",
+          "delta": 1.072086468424191
+        },
+        {
+          "category": "Fg",
+          "delta": 2.4603095563142423
+        },
+        {
+          "category": "Ft",
+          "delta": 2.0982807887054795
+        },
+        {
+          "category": "To",
+          "delta": -0.23216181813646702
         }
       ],
       "risks": []
@@ -302,19 +398,19 @@
         ],
         "status": "Healthy",
         "season": {
-          "games": 12,
-          "minutes": 32.916668,
-          "pts": 16.25,
-          "reb": 5.0833335,
-          "ast": 5.6666665,
-          "stl": 1.9166666,
-          "blk": 0.9166667,
-          "tpm": 2.0833333,
-          "to": 3.25,
-          "fgm": 5.4166665,
-          "fga": 12.25,
-          "ftm": 3.3333333,
-          "fta": 4.6666665
+          "games": 13,
+          "minutes": 33.076923,
+          "pts": 16.076923,
+          "reb": 5.076923,
+          "ast": 5.3846154,
+          "stl": 1.9230769,
+          "blk": 0.84615386,
+          "tpm": 2.0769231,
+          "to": 3.1538463,
+          "fgm": 5.3846154,
+          "fga": 12.230769,
+          "ftm": 3.2307692,
+          "fta": 4.4615383
         },
         "last14": null,
         "last7": null,
@@ -329,157 +425,61 @@
         ],
         "status": "Healthy",
         "season": {
-          "games": 16,
-          "minutes": 26.0625,
-          "pts": 7.8125,
-          "reb": 3.4375,
-          "ast": 2.25,
-          "stl": 1.0625,
-          "blk": 0.5,
-          "tpm": 1.0625,
-          "to": 1.25,
-          "fgm": 3.1875,
-          "fga": 7.625,
-          "ftm": 0.375,
-          "fta": 0.5
+          "games": 17,
+          "minutes": 26.411764,
+          "pts": 7.8235292,
+          "reb": 3.4117646,
+          "ast": 2.1764705,
+          "stl": 1.0588236,
+          "blk": 0.47058824,
+          "tpm": 1.117647,
+          "to": 1.2941177,
+          "fgm": 3.1764705,
+          "fga": 7.882353,
+          "ftm": 0.3529412,
+          "fta": 0.47058824
         },
         "last14": null,
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 5.949579477204301,
+      "totalDelta": 6.219250568467801,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 1.8935825235641537
+          "delta": 1.8716761724449742
         },
         {
           "category": "Reb",
-          "delta": 0.8928952162851626
+          "delta": 0.9099214488209398
         },
         {
           "category": "Ast",
-          "delta": 2.463825442454391
+          "delta": 2.305176429197522
         },
         {
           "category": "Stl",
-          "delta": 2.0564114289165563
+          "delta": 2.10481993071431
         },
         {
           "category": "Blk",
-          "delta": 1.1185387159412996
+          "delta": 1.004489339889825
         },
         {
           "category": "Tpm",
-          "delta": 1.2371003005874341
+          "delta": 1.1655504387617328
         },
         {
           "category": "Fg",
-          "delta": 0.28207815599807856
+          "delta": 0.4999272181186282
         },
         {
           "category": "Ft",
-          "delta": -0.9722628540676992
+          "delta": -0.7701794239906191
         },
         {
           "category": "To",
-          "delta": -3.0225894524750765
-        }
-      ],
-      "risks": []
-    },
-    {
-      "add": {
-        "playerId": "2991230",
-        "name": "Fred VanVleet",
-        "team": "HOU",
-        "positions": [
-          "G"
-        ],
-        "status": "Healthy",
-        "season": {
-          "games": 14,
-          "minutes": 29.928572,
-          "pts": 14.428572,
-          "reb": 2.857143,
-          "ast": 5.714286,
-          "stl": 1.1428572,
-          "blk": 0.2857143,
-          "tpm": 2.857143,
-          "to": 1.1428572,
-          "fgm": 5.071429,
-          "fga": 11.571428,
-          "ftm": 1.4285715,
-          "fta": 1.9285715
-        },
-        "last14": null,
-        "last7": null,
-        "gamesRemainingThisWeek": null
-      },
-      "drop": {
-        "playerId": "3147657",
-        "name": "Mikal Bridges",
-        "team": "NY",
-        "positions": [
-          "G"
-        ],
-        "status": "Healthy",
-        "season": {
-          "games": 16,
-          "minutes": 26.0625,
-          "pts": 7.8125,
-          "reb": 3.4375,
-          "ast": 2.25,
-          "stl": 1.0625,
-          "blk": 0.5,
-          "tpm": 1.0625,
-          "to": 1.25,
-          "fgm": 3.1875,
-          "fga": 7.625,
-          "ftm": 0.375,
-          "fta": 0.5
-        },
-        "last14": null,
-        "last7": null,
-        "gamesRemainingThisWeek": null
-      },
-      "totalDelta": 5.675975615092674,
-      "impacts": [
-        {
-          "category": "Pts",
-          "delta": 1.4848092816405496
-        },
-        {
-          "category": "Reb",
-          "delta": -0.3148544424679701
-        },
-        {
-          "category": "Ast",
-          "delta": 2.498164800907128
-        },
-        {
-          "category": "Stl",
-          "delta": 0.19346046131484562
-        },
-        {
-          "category": "Blk",
-          "delta": -0.5752483981143265
-        },
-        {
-          "category": "Tpm",
-          "delta": 2.174844212808433
-        },
-        {
-          "category": "Fg",
-          "delta": 0.20217402043740196
-        },
-        {
-          "category": "Ft",
-          "delta": -0.14929867002771183
-        },
-        {
-          "category": "To",
-          "delta": 0.16192434859432348
+          "delta": -2.872130985489511
         }
       ],
       "risks": []
