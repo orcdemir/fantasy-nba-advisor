@@ -1,6 +1,6 @@
 {
-  "analyzedAt": "2026-11-24T12:48:16.0425879+00:00",
-  "dataCollectedAt": "2026-11-24T12:48:12.4229037+00:00",
+  "analyzedAt": "2026-11-25T11:34:01.628285+00:00",
+  "dataCollectedAt": "2026-11-25T11:33:56.7043411+00:00",
   "status": "ok",
   "message": null,
   "swaps": [
@@ -14,19 +14,19 @@
         ],
         "status": "Healthy",
         "season": {
-          "games": 15,
-          "minutes": 33.933334,
-          "pts": 13.733334,
-          "reb": 4.6,
-          "ast": 2.4666667,
-          "stl": 2.2,
-          "blk": 0.33333334,
-          "tpm": 1.7333333,
-          "to": 1.1333333,
-          "fgm": 5.266667,
-          "fga": 10.666667,
-          "ftm": 1.4666667,
-          "fta": 1.8
+          "games": 16,
+          "minutes": 33.625,
+          "pts": 13.8125,
+          "reb": 4.4375,
+          "ast": 2.5625,
+          "stl": 2.125,
+          "blk": 0.375,
+          "tpm": 1.8125,
+          "to": 1.125,
+          "fgm": 5.25,
+          "fga": 10.5,
+          "ftm": 1.5,
+          "fta": 1.8125
         },
         "last14": null,
         "last7": null,
@@ -59,43 +59,43 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 7.884736822974859,
+      "totalDelta": 8.15802404803117,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 1.3402051442112135
+          "delta": 1.3525984246304235
         },
         {
           "category": "Reb",
-          "delta": 0.6493081239048061
+          "delta": 0.5585746586423256
         },
         {
           "category": "Ast",
-          "delta": 0.2085172150680257
+          "delta": 0.276923828628329
         },
         {
           "category": "Stl",
-          "delta": 2.7792440378079033
+          "delta": 2.5967281066647767
         },
         {
           "category": "Blk",
-          "delta": -0.36710251566062924
+          "delta": -0.2570606316485079
         },
         {
           "category": "Tpm",
-          "delta": 0.7480780946221717
+          "delta": 0.8416937658930665
         },
         {
           "category": "Fg",
-          "delta": 1.7750482944966546
+          "delta": 1.9059759724225618
         },
         {
           "category": "Ft",
-          "delta": 0.5031259289356121
+          "delta": 0.6222623858270545
         },
         {
           "category": "To",
-          "delta": 0.24831249958910095
+          "delta": 0.2603275369711402
         }
       ],
       "risks": []
@@ -155,43 +155,43 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 7.816450760398609,
+      "totalDelta": 7.81107567220314,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 2.3455808805462257
+          "delta": 2.3359790869938717
         },
         {
           "category": "Reb",
-          "delta": 0.5035889130285263
+          "delta": 0.5018497301866383
         },
         {
           "category": "Ast",
-          "delta": 0.9510072337279967
+          "delta": 0.9494529730047524
         },
         {
           "category": "Stl",
-          "delta": 0.5332454780023482
+          "delta": 0.5332743486090117
         },
         {
           "category": "Blk",
-          "delta": -0.36710251566062924
+          "delta": -0.3691126784095281
         },
         {
           "category": "Tpm",
-          "delta": 1.2745917172383436
+          "delta": 1.270705230874753
         },
         {
           "category": "Fg",
-          "delta": 2.853978739033952
+          "delta": 2.858885634750661
         },
         {
           "category": "Ft",
-          "delta": 1.4123048663096944
+          "delta": 1.4152526754044483
         },
         {
           "category": "To",
-          "delta": -1.6907445518278508
+          "delta": -1.6852113292114663
         }
       ],
       "risks": []
@@ -251,43 +251,43 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 7.7473625405938105,
+      "totalDelta": 7.735283958772104,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 1.3206398839644802
+          "delta": 1.3152337555175777
         },
         {
           "category": "Reb",
-          "delta": 1.6071981447086094
+          "delta": 1.601647562945438
         },
         {
           "category": "Ast",
-          "delta": 1.4370777173898754
+          "delta": 1.4347290565456956
         },
         {
           "category": "Stl",
-          "delta": 1.5758598180673324
+          "delta": 1.575945137176149
         },
         {
           "category": "Blk",
-          "delta": -0.1573296801357449
+          "delta": -0.1581911786240784
         },
         {
           "category": "Tpm",
-          "delta": 0.5717794903272769
+          "delta": 0.5700360197224682
         },
         {
           "category": "Fg",
-          "delta": 1.048292684608474
+          "delta": 1.0492814413528213
         },
         {
           "category": "Ft",
-          "delta": 0.4346904239289227
+          "delta": 0.43715079902772125
         },
         {
           "category": "To",
-          "delta": -0.09084594226541581
+          "delta": -0.09054863489168735
         }
       ],
       "risks": []
@@ -347,70 +347,70 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 6.984673236440728,
+      "totalDelta": 6.979724943893803,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 0.9093294722759153
+          "delta": 0.9056070707436217
         },
         {
           "category": "Reb",
-          "delta": -0.2250076878002567
+          "delta": -0.2242306065345837
         },
         {
           "category": "Ast",
-          "delta": 2.5477600694235116
+          "delta": 2.5435961858401743
         },
         {
           "category": "Stl",
-          "delta": -0.6844646138852437
+          "delta": -0.6845016716934343
         },
         {
           "category": "Blk",
-          "delta": -0.9614589988806449
+          "delta": -0.9667237110024496
         },
         {
           "category": "Tpm",
-          "delta": 1.072086468424191
+          "delta": 1.0688174612717294
         },
         {
           "category": "Fg",
-          "delta": 2.4603095563142423
+          "delta": 2.467564687893717
         },
         {
           "category": "Ft",
-          "delta": 2.0982807887054795
+          "delta": 2.100997560113171
         },
         {
           "category": "To",
-          "delta": -0.23216181813646702
+          "delta": -0.23140203273814358
         }
       ],
       "risks": []
     },
     {
       "add": {
-        "playerId": "4712849",
-        "name": "Anthony Black",
-        "team": "ORL",
+        "playerId": "3995",
+        "name": "Jrue Holiday",
+        "team": "POR",
         "positions": [
           "G"
         ],
         "status": "Healthy",
         "season": {
-          "games": 13,
-          "minutes": 33.076923,
-          "pts": 16.076923,
-          "reb": 5.076923,
-          "ast": 5.3846154,
-          "stl": 1.9230769,
-          "blk": 0.84615386,
-          "tpm": 2.0769231,
-          "to": 3.1538463,
-          "fgm": 5.3846154,
-          "fga": 12.230769,
-          "ftm": 3.2307692,
-          "fta": 4.4615383
+          "games": 17,
+          "minutes": 27.058823,
+          "pts": 14.058824,
+          "reb": 3.7058823,
+          "ast": 4.470588,
+          "stl": 1.2941177,
+          "blk": 0.1764706,
+          "tpm": 2.4705882,
+          "to": 1.9411764,
+          "fgm": 4.7647057,
+          "fga": 10,
+          "ftm": 2.0588236,
+          "fta": 2.4117646
         },
         "last14": null,
         "last7": null,
@@ -443,43 +443,43 @@
         "last7": null,
         "gamesRemainingThisWeek": null
       },
-      "totalDelta": 6.219250568467801,
+      "totalDelta": 6.116738254487398,
       "impacts": [
         {
           "category": "Pts",
-          "delta": 1.8716761724449742
+          "delta": 1.4082302628001242
         },
         {
           "category": "Reb",
-          "delta": 0.9099214488209398
+          "delta": 0.16016478896815473
         },
         {
           "category": "Ast",
-          "delta": 2.305176429197522
+          "delta": 1.6457182713322447
         },
         {
           "category": "Stl",
-          "delta": 2.10481993071431
+          "delta": 0.5730710253972913
         },
         {
           "category": "Blk",
-          "delta": 1.004489339889825
+          "delta": -0.7909557317654186
         },
         {
           "category": "Tpm",
-          "delta": 1.1655504387617328
+          "delta": 1.6388533598615598
         },
         {
           "category": "Fg",
-          "delta": 0.4999272181186282
+          "delta": 1.349428093312448
         },
         {
           "category": "Ft",
-          "delta": -0.7701794239906191
+          "delta": 1.1282634762550656
         },
         {
           "category": "To",
-          "delta": -2.872130985489511
+          "delta": -0.9960352916740707
         }
       ],
       "risks": []
